@@ -78,7 +78,7 @@ title: "Asociația Incotroceni" # Site name or title, also used in jekyll-seo-ta
 logo: "/assets/images/logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Site-ul oficial al Asociației Incotroceni. Ultimele știri și evenimente din cartierul Cotroceni." # Site description and default description, also used in jekyll-seo-tag
 url: "https://incotroceni.ro" # Site url, also used in jekyll-seo-tag
-baseurl: "https://incotroceni.ro"
+baseurl: ""
 repo: "https://github.com/incotroceni/incotroceni.github.io"
 email: "salut@incotroceni.ro"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
