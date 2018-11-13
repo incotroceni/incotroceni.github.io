@@ -1,6 +1,6 @@
 # Asociația InCotroceni
 
-![Logo](/images/logo.png)
+![Logo](/assets/images/logo.png)
 
 Pagină in lucru.
 
