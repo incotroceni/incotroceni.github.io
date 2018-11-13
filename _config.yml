@@ -75,7 +75,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: ro-RO # Set the site language
 title: "Asociația Incotroceni" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/images/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/images/logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Site-ul oficial al Asociației Incotroceni. Ultimele știri și evenimente din cartierul Cotroceni." # Site description and default description, also used in jekyll-seo-tag
 url: "https://incotroceni.ro" # Site url, also used in jekyll-seo-tag
 baseurl: "https://incotroceni.ro"
@@ -90,9 +90,9 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 # 8. Site navigation
 navigation_header:
   Home: /
-  Blog: /blog/
-  Categorii: /categories/
-  Search: /search/
+#  Blog: /blog/
+#  Categorii: /categories/
+#  Search: /search/
 
 # navigation_footer:
 #   Created by David Darnes: https://darn.es

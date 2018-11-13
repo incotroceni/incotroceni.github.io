@@ -1,7 +1,7 @@
---
+---
 layout: page
 title: Asociația Incotroceni
---
+---
 
 ![Logo](/assets/images/logo.png)
 
