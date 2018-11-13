@@ -3,7 +3,7 @@ layout: page
 title: Asociația Incotroceni
 ---
 
-![Logo](/assets/images/logo.png)
+![Logo](assets/images/logo.png)
 
 Pagină in lucru.
 
