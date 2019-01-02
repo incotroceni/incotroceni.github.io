@@ -83,32 +83,28 @@ repo: "https://github.com/incotroceni/incotroceni.github.io"
 email: "salut@incotroceni.ro"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 #avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
-# google_analytics: ''
+google_analytics: 'UA-118125506-1'
 # service_worker: false # Will turn off the service worker if set to false
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # 8. Site navigation
 navigation_header:
-  Home: /
-#  Blog: /blog/
-#  Categorii: /categories/
-#  Search: /search/
+  Acasă: /
+  Despre: /about/
+  Contact: /contact/
 
-# navigation_footer:
-#   Created by David Darnes: https://darn.es
+navigation_footer:
+  Abonare la noutăți: http://eepurl.com/ck0bNf
 
-# social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-#   Twitter: https://twitter.com/DavidDarnes
-#   LinkedIn: https://www.linkedin.com/in/daviddarnes
-#   Google+: https://plus.google.com/+DavidDarnes
-#   GitHub: https://github.com/daviddarnes
-#   link: https://darn.es
-#   RSS: /feed.xml
+social_links:
+   Facebook: https://facebook.com/incotroceni
+   Instagram: https://instagram.com/incotroceni
+   Youtube: https://www.youtube.com/channel/UCihlndbN0dSh4LEuZ4FPcrQ
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
-  Twitter: "#0d94e7"
-  facebook: "#3B5998"
-  Google+: "#DC4E41"
+  # Twitter: "#0d94e7"
+  # facebook: "#3B5998"
+  # Google+: "#DC4E41"
   # Pinterest: "#BD081C"
   # LinkedIn: "#0077B5"
   # tumblr: "#36465D"
