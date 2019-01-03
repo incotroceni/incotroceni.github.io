@@ -35,4 +35,6 @@ Please see [LICENSE](LICENSE) file.
 
 # About Incotroceni
 
+Suntem un grup de locuitori care si-a propus sa faca din Cotroceni un spatiu mai bun de locuit, un cartier mai primitor si mai armonios.  Ne dorim sa documentam istoria si atmosfera Cotroceniului de acum si de ieri, prin publicarea de povesti, poze despre oameni, intamplari, locuri si case. 
 
+Daca esti din Cotroceni si vrei sa te implici, scrie-ne! 
