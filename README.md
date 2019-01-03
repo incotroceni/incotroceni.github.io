@@ -4,13 +4,24 @@
 
 Codul sursa al site-ului Asociatiei Incotroceni.
 
-[Built with](#built-with) | [Contributing](#contributing) | [Feedback](#feedback) | [License](#license) | [About Incotroceni](#about-incotroceni)
+[Built with](#built-with) | [Development setup](#development-setup) | [Contributing](#contributing) | [Feedback](#feedback) | [License](#license) | [About Incotroceni](#about-incotroceni)
 
 ## Built with
 
 Built using [Jekyll](https://jekyllrb.com/) with the theme [Alembic](https://github.com/daviddarnes/alembic).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## Development setup
+
+To run the website locally all you need to do is:
+
+- clone the repo
+- install jekyll and bundler jems `gem install jekyll bundler`
+- run the following command from the website directory `bundle exec jekyll serve`
+- browse to `http://localhost:4000`
+
+You can find more details on setting up a jekyll site in the [official docs](https://jekyllrb.com/docs/).
 
 ## Contributing
 
