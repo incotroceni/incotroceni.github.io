@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+# Website Incotroceni
 
-You can use the [editor on GitHub](https://github.com/incotroceni/incotroceni.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[![GitHub contributors](https://img.shields.io/github/contributors/incotroceni/incotroceni.github.io.svg?style=for-the-badge)](https://github.com/incotroceni/incotroceni.github.io/graphs/contributors) [![GitHub last commit](https://img.shields.io/github/last-commit/incotroceni/incotroceni.github.io.svg?style=for-the-badge)](https://github.com/incotroceni/incotroceni.github.io/commits/master) [![License: GNU](https://img.shields.io/badge/license-GNU-brightgreen.svg?style=for-the-badge)](https://opensource.org/licenses/GPL-3.0)
+
+Codul sursa al site-ului Asociatiei Incotroceni.
+
+[Built with](#built-with) | [Development setup](#development-setup) | [Contributing](#contributing) | [Feedback](#feedback) | [License](#license) | [About Incotroceni](#about-incotroceni)
+
+## Built with
+
+Built using [Jekyll](https://jekyllrb.com/) with the theme [Alembic](https://github.com/daviddarnes/alembic).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Development setup
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+To run the website locally all you need to do is:
 
-```markdown
-Syntax highlighted code block
+- clone the repo
+- install jekyll and bundler jems `gem install jekyll bundler`
+- run the following command from the website directory `bundle exec jekyll serve`
+- browse to `http://localhost:4000`
 
-# Header 1
-## Header 2
-### Header 3
+You can find more details on setting up a jekyll site in the [official docs](https://jekyllrb.com/docs/).
 
-- Bulleted
-- List
+## Contributing
 
-1. Numbered
-2. List
+If you would like to contribute to the site theme, please see the [open issues list](https://github.com/incotroceni/incotroceni.github.io/issues).
 
-**Bold** and _Italic_ and `Code` text
+To contribute to the repo
 
-[Link](url) and ![Image](src)
-```
+- fork the repo
+- create a new branch with the new feature you want to implement
+- commit you changes
+- make a pull request
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Feedback
 
-### Jekyll Themes
+In case you discovered a bug or would like to request an improvement for the site, please [submit a new issue](https://github.com/incotroceni/incotroceni.github.io/issues/new).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/incotroceni/incotroceni.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For any other questions, please contact us at salut@incotroceni.ro .
 
-### Support or Contact
+## License
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Please see [LICENSE](LICENSE) file.
+
+## About Incotroceni
+
+Suntem un grup de locuitori care si-a propus sa faca din Cotroceni un spatiu mai bun de locuit, un cartier mai primitor si mai armonios.  Ne dorim sa documentam istoria si atmosfera Cotroceniului de acum si de ieri, prin publicarea de povesti, poze despre oameni, intamplari, locuri si case. 
+
+Daca esti din Cotroceni si vrei sa te implici, scrie-ne! 
