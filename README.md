@@ -1,6 +1,6 @@
 ## Website Incotroceni
 
-[![GitHub contributors](https://img.shields.io/github/contributors/incotroceni/incotroceni.github.io.svg?style=for-the-badge)](https://github.com/incotroceni/incotroceni.github.io/graphs/contributors) [![GitHub last commit](https://img.shields.io/github/last-commit/incotroceni/incotroceni.github.io.svg?style=for-the-badge)](https://github.com/incotroceni/incotroceni.github.io/commits/master) [![License: GNU](https://img.shields.io/badge/license-GNU-brightgreen.svg?style=for-the-badge)](https://opensource.org/licenses/gpl-license)
+[![GitHub contributors](https://img.shields.io/github/contributors/incotroceni/incotroceni.github.io.svg?style=for-the-badge)](https://github.com/incotroceni/incotroceni.github.io/graphs/contributors) [![GitHub last commit](https://img.shields.io/github/last-commit/incotroceni/incotroceni.github.io.svg?style=for-the-badge)](https://github.com/incotroceni/incotroceni.github.io/commits/master) [![License: GNU](https://img.shields.io/badge/license-GNU-brightgreen.svg?style=for-the-badge)](https://opensource.org/licenses/GPL-3.0)
 
 Codul sursa al site-ului Asociatiei Incotroceni.
 
