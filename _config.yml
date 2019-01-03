@@ -90,11 +90,14 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 # 8. Site navigation
 navigation_header:
   Acasă: /
-  Despre: /about/
+  Implică-te: /implica-te/
+  Despre: /despre/
   Contact: /contact/
+  Donează: /doneaza/
 
 navigation_footer:
   Abonare la noutăți: http://eepurl.com/ck0bNf
+  Implică-te: /implica-te/
 
 social_links:
    Facebook: https://facebook.com/incotroceni
