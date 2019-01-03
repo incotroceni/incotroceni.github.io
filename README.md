@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Website Incotroceni
 
-You can use the [editor on GitHub](https://github.com/incotroceni/incotroceni.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[![GitHub contributors](https://img.shields.io/github/contributors/incotroceni/incotroceni.github.io.svg?style=for-the-badge)](https://github.com/incotroceni/incotroceni.github.io/graphs/contributors) [![GitHub last commit](https://img.shields.io/github/last-commit/incotroceni/incotroceni.github.io.svg?style=for-the-badge)](https://github.com/incotroceni/incotroceni.github.io/commits/master) [![License: GNU](https://img.shields.io/badge/license-GNU-brightgreen.svg?style=for-the-badge)](https://opensource.org/licenses/gpl-license)
+
+Codul sursa al site-ului Asociatiei Incotroceni.
+
+[Built with](#built-with) | [Contributing](#contributing) | [Feedback](#feedback) | [License](#license) | [About Incotroceni](#about-incotroceni)
+
+# Built with
+
+Built using [Jekyll](https://jekyllrb.com/) with the theme [Alembic](https://github.com/daviddarnes/alembic).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Contributing
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you would like to contribute to the site theme, please see the [open issues list](https://github.com/incotroceni/incotroceni.github.io/issues).
 
-```markdown
-Syntax highlighted code block
+To contribute to the repo
 
-# Header 1
-## Header 2
-### Header 3
+- fork the repo
+- create a new branch with the new feature you want to implement
+- commit you changes
+- make a pull request
 
-- Bulleted
-- List
+# Feedback
 
-1. Numbered
-2. List
+In case you discovered a bug or would like to request an improvement for the site, please [submit a new issue](https://github.com/incotroceni/incotroceni.github.io/issues/new).
 
-**Bold** and _Italic_ and `Code` text
+For any other questions, please contact us at salut@incotroceni.ro .
 
-[Link](url) and ![Image](src)
-```
+# License
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Please see [LICENSE](LICENSE) file.
 
-### Jekyll Themes
+# About Incotroceni
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/incotroceni/incotroceni.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
