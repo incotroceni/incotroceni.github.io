@@ -1,0 +1,7 @@
+<small class="small  post-meta">
+  {% assign date_format = site.date_format | default: "%d %B %Y" %}
+  <time datetime="{{ page.date | date_to_xmlschema }}" class="time">{{ page.date | date: date_format }}</time>
+  {% if page.time != nill %}
+    &nbsp;&middot;&nbsp;{{page.time}}
+  {% endif %}
+</small>
