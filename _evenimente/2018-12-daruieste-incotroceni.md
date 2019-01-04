@@ -11,10 +11,10 @@ Cum ar fi să facem nişte oameni veseli cu ceva ce aveţi deja acasă?
 Vă invităm să facem Sărbătorile de Crăciun mai frumoase pentru familiile şi copiii cu situații dificile şi, în același timp, să încurajăm refolosirea resurselor şi un comportament responsabil faţă de mediu.
 
 Campania începe pe 15 decembrie, în ziua praznicului Sf. Elefterie. Până pe 20 decembrie, se vor colecta:
-•	îmbrăcăminte şi încălțăminte pentru copii/adulţi;
-•	jucării pentru toate vârstele;
-•	rechizite școlare;
-•	orice altă resursă utilă ce poate fi donată.
+- îmbrăcăminte şi încălțăminte pentru copii/adulţi;
+- jucării pentru toate vârstele;
+- rechizite școlare;
+- orice altă resursă utilă ce poate fi donată.
 
 Este important să fie aduse lucruri NOI sau care încă se pot folosi.
 Fiecare pachet trebuie să aibă un BILEŢEL pe care să fie trecută vârsta şi genul destinatarului.

@@ -99,6 +99,7 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 navigation_header:
   Acasă: /
   Implică-te: /implica-te/
+  Proiecte: /proiecte/
   Evenimente: /evenimente/
   Despre: /despre/
   Contact: /contact/
