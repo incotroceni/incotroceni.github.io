@@ -6,7 +6,7 @@ last_updated: 1 February 2017
 
 > Proiect prin care vrem sa vorbim cu vecinii nostri despre ce inseamna patrimoniu construit, cum facem sa il intretinem si sa il valorificam
 
-{% include button.html text="Descarcă broșura Casa Încotroceni" link="../../assets/docs/casa-in-cotroceni.pdf" %}
+{% include button.html text="Descarcă broșura Casa Încotroceni" link="https://drive.google.com/a/incotroceni.ro/file/d/1CcaindcfsRGpXgOTXHSQWoP9qvPYljxC/view?usp=sharing" %}
 
 Cotroceniul este un cartier de referinta al Bucurestiului, un loc cu o istorie bogata, avand un patrimoniu arhitectural bine conservat: case preponderet eclectice, dar si neo-romanesti, Art Deco, Art Nouveau, Moderniste.
 
