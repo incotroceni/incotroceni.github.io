@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Copacul Încotroceni
-last_updated: 1.12.2018
+last_updated: 1 December 2018
 ---
 
 Cartierul Cotroceni este un cartier verde, ca o grădină în oraș, fiind foarte plăcut atât locuitorilor cât și vizitatorilor. Este preferat plimbărilor cu bicicleta în timpul verii datorită umbrei copacilor maturi. Străzile cartierului au avut de suferit în ultimii ani datorită toaletării excesive a copacilor din aliniamentul stradal. Astfel, după toaletare mulți copaci s-au uscat. Unii copaci au fost tăiați și au rămas buturugile, iar în locul unor copaci s-a asfaltat pentru a obține locuri de parcare pe trotuar. Menționăm că străzile cartierului permit parcarea pe stradă, având străzi generoase.
