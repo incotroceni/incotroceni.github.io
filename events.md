@@ -12,7 +12,7 @@ permalink: /evenimente/
     </a>
   </h3>
   <p>
-    {{ eveniment.content | strip_html | truncatewords: 50 }}
+    {{ eveniment.content | strip_html | truncatewords: 40 }}
     <a href="{{ eveniment.url }}">
       Citește mai mult
     </a>

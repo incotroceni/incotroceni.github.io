@@ -2,6 +2,7 @@
 layout: event
 title: Dăruiește Încotroceni
 date: 15 - 20 decembrie 2018
+facebook_link: https://www.facebook.com/events/848257132232474/
 ---
 
 Cum ar fi să facem nişte oameni veseli cu ceva ce aveţi deja acasă?

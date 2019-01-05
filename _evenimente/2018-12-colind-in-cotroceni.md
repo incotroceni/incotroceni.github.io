@@ -3,7 +3,8 @@ layout: event
 title: Colind Încotroceni
 date: 21 decembrie 2018
 time: 17.00 – 19.30
-featured_image: "assets/images/events-2018-12-colind.jpg"
+event_image: "../../assets/images/events-2018-12-colind.jpg"
+facebook_link: https://www.facebook.com/events/357919635019816/
 ---
 
 Iată că a venit din nou vremea să [colindăm vecinii](https://www.facebook.com/events/357919635019816/) dornici de urări de Crăciun!
