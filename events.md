@@ -11,8 +11,9 @@ permalink: /evenimente/
       {{ eveniment.title }}
     </a>
   </h3>
+  {% assign date_format = site.date_format | default: "%d %B %Y" %}
   <p>
-    {{ eveniment.content | strip_html | truncatewords: 40 }}
+    <time datetime="{{ eveniment.date | date_to_xmlschema }}" class="time">{{ eveniment.date | date: date_format }}</time>&nbsp;&middot;&nbsp;{{ eveniment.content | strip_html | truncatewords: 40 }}
     <a href="{{ eveniment.url }}">
       Citește mai mult
     </a>
