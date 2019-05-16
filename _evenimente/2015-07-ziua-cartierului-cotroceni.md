@@ -7,11 +7,11 @@ event_image: "../../assets/images/events-2015-07-ziua-cartierului.png"
 photo_gallery: https://www.facebook.com/pg/incotroceni/photos/?tab=album&album_id=1602112386726595
 ---
 
-La umbra copacilor terasei de la Ota, membrii initiativei comunitare "InCotroceni – Oameni, Idei, Povesti" va astepta sa ne bucuram impreuna de activitati diverse pentru adulti si copii, discutii despre Cotroceni, muzica, filme si mancare buna, plina de arome persane aduse InCotroceni de Reza.
+La umbra copacilor terasei de la Ota, membrii inițiativei comunitare "Incotroceni – Oameni, Idei, Povești" vă așteptă să ne bucurăm împreună de activități diverse pentru adulți și copii, discuții despre Cotroceni, muzică, filme și mâncare bună, plină de arome persane aduse ÎnCotroceni de Reza.
 
 10.00: Inaugurarea expoziției de fotografie „Oameni şi Poveşti din Cotroceni”  
 10.00–19.00: Târg cu obiecte frumoase din cartier: Wagner Arte Frumoase şi Poveşti, Baroque Books & Arts, Assamblage - Școala De Bijuterie Contemporană  
-Ploosh10.00–19.00: Vizitarea expoziției de pictură a artistului Nicolae Comănescu - Galeria 26  
+10.00–19.00: Vizitarea expoziției de pictură a artistului Nicolae Comănescu - Galeria 26  
 10.30–11.30: Atelier de pictură pentru copii, cu artista Măriuca Stanciu - Galeria Romniceanu (în aer liber)  
 11.30-12.30: Atelier de explorare creativă pentru copii - decorațiuni din materiale naturale - cu Claudia Damoc (în aer liber)  
 13.30-14.30: Concert de muzică braziliană şi românească interbelică, cu Gabriela Costa & Alex Man (în aer liber)  

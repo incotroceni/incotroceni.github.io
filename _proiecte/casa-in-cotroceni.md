@@ -4,30 +4,30 @@ title: Casa Încotroceni
 last_updated: 1 February 2017
 ---
 
-> Proiect prin care vrem sa vorbim cu vecinii nostri despre ce inseamna patrimoniu construit, cum facem sa il intretinem si sa il valorificam
+> Proiect prin care vrem să vorbim cu vecinii noștri despre ce înseamnă patrimoniu construit, cum facem să îl întreținem și să îl valorificăm.
 
 {% include button.html text="Descarcă broșura Casa Încotroceni" link="https://drive.google.com/a/incotroceni.ro/file/d/1CcaindcfsRGpXgOTXHSQWoP9qvPYljxC/view?usp=sharing" %}
 
-Cotroceniul este un cartier de referinta al Bucurestiului, un loc cu o istorie bogata, avand un patrimoniu arhitectural bine conservat: case preponderet eclectice, dar si neo-romanesti, Art Deco, Art Nouveau, Moderniste.
+Cotroceniul este un cartier de referință al Bucureștiului, un loc cu o istorie bogată, având un patrimoniu arhitectural bine conservat: case preponderent eclectice, dar și neo-românești, Art Deco, Art Nouveau, Moderniste.
 
-Cartierul Cotroceni, ca orice zona protejata din capitala se dezvolta haotic, patrimoniul existent avand de suferit, atat datorita Autoritatilor care intarzie solutionarea actelor cat si datorita lipsei de informare a locuitorilor.
+Cartierul Cotroceni, ca orice zonă protejată din capitală se dezvoltă haotic, patrimoniul existent având de suferit, atât datorită Autorităților care întârzie soluționarea actelor cât și datorită lipsei de informare a locuitorilor.
 
-Cartierul intinereste, multe familii tinere se muta, din cauza atmosferei prietenoase si foarte placute de locuit. Asteptarile sunt mari, accesibilitatea caselor este scazuta, investitiile sunt mari sau cu riscuri legale. Entuziasmul mutarii in cartier scade pe masura ce apare necesitatea renovarii caselor.
+Cartierul întinerește, multe familii tinere se mută, din cauza atmosferei prietenoase și foarte plăcute de locuit. Așteptările sunt mari, accesibilitatea caselor este scăzută, investițiile sunt mari sau cu riscuri legale. Entuziasmul mutării în cartier scade pe măsură ce apare necesitatea renovării caselor.
 
-Multe dintre imobile nu au fost intretinute corespunzator si acum necesita o atentie deosebita. Procedura de autorizare dureaza mai mult de 1, 5 ani. Procedurie sunt atat de anevoioase incat proiectul in sine nu mai este o prioritate. Prioritatea este termenul. Toti intreaba cand ma mut?
+Multe dintre imobile nu au fost întreținute corespunzător și acum necesită o atenție deosebită. Procedura de autorizare durează mai mult de 1, 5 ani. Procedurile sunt atât de anevoioase încât proiectul în sine nu mai este o prioritate. Prioritatea este termenul. Toți întreabă când mă mut?
 
-Pe de alta parte, exista si locuitori care nu stiu ca au nevoie de un proiect pentru interventii. Astfel, totul ramane la latitudinea mesterilor.
+Pe de altă parte, există și locuitori care nu știu că au nevoie de un proiect pentru intervenții. Astfel, totul rămâne la latitudinea meșterilor.
 
-**Scopul proiectului este să iniţiem acţiuni pentru a păstra şi valorifica patrimonial cultural şi arhitectural al cartierului, prin implicarea activa si creativa a locuitorilor.**
+**Scopul proiectului este să iniţiem acţiuni pentru a păstra şi valorifica patrimonial cultural şi arhitectural al cartierului, prin implicarea activă și creativă a locuitorilor.**
 
-Proiectul propune cresterea gradului de constientizare a locuitorilor privind patrimoniul arhitectural urbanistic, prin ateliere cu expozitii si activitati interactive in cadrul carora vor fi transmise informatii practice de exemple pozitive. Impactul atelierelor vizeaza transmiterea unor informatii despre case, intr-un mod creativ, accesibil tuturor, dar cu impact semnificativ pe termen mediu si lung privind patrimoniul arhitectural. Informatiile dobandite in urma proiectului vor contribui la influentarea deciziilor comunitatii in ceea ce priveste interventiile, constientizand ca optiunile personale pot afecta uneori peisajul general si au impact asupra identitatii cartierului.
+Proiectul propune creșterea gradului de conștientizare a locuitorilor privind patrimoniul arhitectural urbanistic, prin ateliere cu expoziții și activități interactive în cadrul cărora vor fi transmise informații practice de exemple pozitive. Impactul atelierelor vizează transmiterea unor informații despre case, într-un mod creativ, accesibil tuturor, dar cu impact semnificativ pe termen mediu și lung privind patrimoniul arhitectural. Informațiile dobândite în urma proiectului vor contribui la influențarea deciziilor comunității în ceea ce privește intervențiile, conștientizând că opțiunile personale pot afecta uneori peisajul general și au impact asupra identității cartierului.
 
-**Proiectul isi propune:**
+**Proiectul își propune:**
 
-**- Informarea locuitorilor asupra valorii caselor prin activitati dedicate**  
-**- Realizarea unui material informativ tip brosura care sa prezinte pe intelesul locuitorilor ce inseamna Zona protejata si ce cuprinde Regulamentul Local de urbanism, prin exemplificari**  
-**- Realizarea de ateliere/ sesiuni de discutii cu exemplificari pentru masurile minime ce trebuie realizate pentru a intretine casele din cartier**  
+**- Informarea locuitorilor asupra valorii caselor prin activități dedicate**  
+**- Realizarea unui material informativ tip broșură care să prezinte pe înțelesul locuitorilor ce înseamnă Zona protejată și ce cuprinde Regulamentul Local de urbanism, prin exemplificări**  
+**- Realizarea de ateliere / sesiuni de discuții cu exemplificări pentru măsurile minime ce trebuie realizate pentru a întreține casele din cartier**  
 
-Proiectul se adreseaza atat comunitatii din Cotroceni, cat si intregul oras pentru intretinerea si valorificarea unui cartier cu o valoare urbanistica si arhitecturala deosebita.
+Proiectul se adresează atât comunității din Cotroceni, cât și întregul oraș pentru întreținerea și valorificarea unui cartier cu o valoare urbanistică și arhitecturală deosebită.
 
-*Prin actiunile acestui proiect incercam sa luam masuri de prevenire a deteriorarii patrimoniului construit.*
+*Prin acțiunile acestui proiect încercăm să luăm măsuri de prevenire a deteriorării patrimoniului construit.*
