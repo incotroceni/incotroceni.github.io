@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Bazar de Cotroceni 2019
-date: 25-26 May 2019
+date: 25 May 2019
 time: 11.00 – 19.00
 event_image: "../../assets/images/events-2019-05-bazar-cover.png"
 facebook_link: https://www.facebook.com/events/380761875857916/
