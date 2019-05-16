@@ -6,7 +6,7 @@ feature_image: "assets/images/home-feature.jpg"
 
 Incotroceni – Oameni, Idei, Povești și-a propus să facă din Cotroceni un spațiu mai bun de locuire, un cartier mai primitor și mai armonios, în care calitatea vieții să crească. Scopul nostru îl constituie dezvoltarea, promovarea și sprijinirea comunității din cartierul Cotroceni și a identității acestuia, pe direcții de acțiune: (I) social – cultural și (II) arhitectură, urbanism și infrastructură. [Află mai multe...](/about/about...)
 
-> Vă invităm la [Bazar de Cotroceni 2019](https://www.facebook.com/events/380761875857916/) în weekendul 25 - 26 mai.
+> Vă invităm la [Bazar de Cotroceni 2019](https://incotroceni.ro/evenimente/2019-05-bazar-de-cotroceni/) în weekendul 25 - 26 mai.
 
 {% include figure.html image="../assets/images/events-2019-05-bazar-cover.png" position="center" %}   
 
