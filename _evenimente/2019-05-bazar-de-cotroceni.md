@@ -17,7 +17,7 @@ Business-urile din cartier pregătesc și ele activități speciale, și-ți vor
 🔸 Tema ediției: RECICLAREA 🔸
 
 - Program participanți pe ore/zile: în curând
-- Harta online: în curând
+- [Harta online](http://bit.ly/2HDhjml)
 - Harta printată: va fi disponibilă în timpul evenimentului, la mai multe puncte din cartier.
 
 La plimbare vei găsi:
