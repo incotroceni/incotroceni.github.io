@@ -21,15 +21,16 @@ Credem și dorim să susținem o atitudine sustenabilă în ce privește folosir
 
 Site-ul [Lucruri Gratis](http://lucrurigratis.ro/) și grupul de facebook [Free Cycle București](https://www.facebook.com/groups/325116167547550/) sunt comunități online care pun în contact pe cei care au lucruri de care nu mai au nevoie cu cei care le-ar putea folosi.
 
-#### Alte donații de obiecte diverse
+#### Alte donații de obiecte diverse   
 
-- biciclete, accesorii și componente de biciclete http://cobibicycle.com/proiecte/reciclare-biciclete/
-- bannere și prelate: [Remesh](https://www.facebook.com/remesh.socialware) și [UpsideDown](https://www.facebook.com/upsidedownro/)
+- bannere și prelate: [Remesh](https://www.facebook.com/remesh.socialware/) și [UpsideDown](https://www.facebook.com/upsidedownro/)
 - [Circularia](https://www.facebook.com/circularia.ro/?hc_ref=SEARCH) este o platformă care îi conectează pe generatorii de deșeuri sau de materii prime secundare cu cei care le pot valorifica - upcyclers. Pentru început, se concentreaza pe deșeuri textile și de materii prime secundare din care se poate confecționa mobilier.
 
 ### Reciclare creativă
 
-Pentru alte idei și ateliere de reciclare creativă:  https://www.facebook.com/ReciclareCreativa.ro/ , https://www.facebook.com/pimpthegarbage/
+Pentru alte idei și ateliere de reciclare creativă:
+- [Reciclare creativă](https://www.facebook.com/ReciclareCreativa.ro/)
+- [Pimp the garbage](https://www.facebook.com/pimpthegarbage/)
 
 ### Reciclează
 
