@@ -21,10 +21,12 @@ Credem și dorim să susținem o atitudine sustenabilă în ce privește folosir
 
 Site-ul [Lucruri Gratis](http://lucrurigratis.ro/) și grupul de facebook [Free Cycle București](https://www.facebook.com/groups/325116167547550/) sunt comunități online care pun în contact pe cei care au lucruri de care nu mai au nevoie cu cei care le-ar putea folosi.
 
+Alte informații despre soluții care ne ajută să prevenim în primul rând risipa de resurse și să facilităm reciclarea, atunci când prevenirea este dificilă sunt și pe [grupul de facebook Eco-frugal în România](https://www.facebook.com/groups/113214019349919)
+
 #### Alte donații de obiecte diverse   
 
 - cei de la [Papelier](https://www.facebook.com/atelierpapelier/) primesc donații de hârtie pe care o reciclează și transformă în obiecte din hârtie reciclată manual, de la papetărie clasică (coli de hârtie, agende, etichete, plicuri, invitații etc.) până la obiecte de decor interior (lămpi, tapet)
-- prin proiectul [Reconect](https://www.reconect.ro/) cei de la [Ateliere fără frontiere] (http://www.atelierefarafrontiere.ro/reconect) colectează DEEE (deșeuri de echipamente electrice și electronice) pe care le transformă în echipamente IT reconditionațe pe care le donează de 11 ani în toată Romania pentru solidaritate și educație prin platforma de donații de calculatoare EDUCLICK, dar și în materii prime reciclate pentru protecția mediului, reducerea deșeurilor, risipei și poluării.
+- prin proiectul [Reconect](https://www.reconect.ro/) cei de la [Ateliere fără frontiere](http://www.atelierefarafrontiere.ro/reconect) colectează DEEE (deșeuri de echipamente electrice și electronice) pe care le transformă în echipamente IT reconditionațe pe care le donează de 11 ani în toată Romania pentru solidaritate și educație prin platforma de donații de calculatoare EDUCLICK, dar și în materii prime reciclate pentru protecția mediului, reducerea deșeurilor, risipei și poluării.
 - bannere și prelate: [Remesh](https://www.facebook.com/remesh.socialware/) și [UpsideDown](https://www.facebook.com/upsidedownro/)
 - [Circularia](https://www.facebook.com/circularia.ro/?hc_ref=SEARCH) este o platformă care îi conectează pe generatorii de deșeuri sau de materii prime secundare cu cei care le pot valorifica - upcyclers. Pentru început, se concentreaza pe deșeuri textile și de materii prime secundare din care se poate confecționa mobilier.
 - de recondiționare de biciclete se ocupă și cei de la [viața secretă a bicicletelor](https://www.facebook.com/viatasecretaabicicletelor/?hc_location=ufi)
