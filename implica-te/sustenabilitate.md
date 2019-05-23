@@ -47,6 +47,8 @@ Uleiul alimentar uzat în chiuvetă sau la canalizare este nociv atât pentru no
 
 [SIGUREC](http://www.sigurec.ro/) este cel mai modern serviciu de preluare și de colectare a deșeurilor care există în prezent în România. SIGUREC utilizează automate de colectare inteligente și simplu de folosit, amplasate în locuri ușor accesibile, precum și un serviciu de preluare a deșeurilor chiar de la dumneavoastră acasă – inclusiv a echipamentelor casnice precum frigiderele! În schimbul deșeurilor reciclate, veți primi bonuri valorice ce pot fi cheltuite la magazinul în incinta căruia sunt amplasate automatele.
 
+Misiunea [RoRec](https://www.facebook.com/pg/AsociatiaRoRec/about/?ref=page_internal) este de a contribui activ la conservarea, protecția și îmbunatățirea calității mediului înconjurător și a sănătății umane, pentru utilizarea rațională a resurselor naturale, prin asigurarea de servicii complete de gestionare a deșeurilor de echipamente electrice și electronice și implicit prin reintroducerea materiilor prime în circuitul economic.
+
 ### Initiative legate de permacultură și compost
 
 [Grădina de permacultură urbană](https://www.facebook.com/GradinaDinGuraSiriului/) - colectare compost, grădini urbane, ateliere
