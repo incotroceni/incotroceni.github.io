@@ -23,8 +23,11 @@ Site-ul [Lucruri Gratis](http://lucrurigratis.ro/) și grupul de facebook [Free 
 
 #### Alte donații de obiecte diverse   
 
+- cei de la [Papelier](https://www.facebook.com/atelierpapelier/) primesc donații de hârtie pe care o reciclează și transformă în obiecte din hârtie reciclată manual, de la papetărie clasică (coli de hârtie, agende, etichete, plicuri, invitații etc.) până la obiecte de decor interior (lămpi, tapet)
+- prin proiectul [Reconect](https://www.reconect.ro/) cei de la [Ateliere fără frontiere] (http://www.atelierefarafrontiere.ro/reconect) colectează DEEE (deșeuri de echipamente electrice și electronice) pe care le transformă în echipamente IT reconditionațe pe care le donează de 11 ani în toată Romania pentru solidaritate și educație prin platforma de donații de calculatoare EDUCLICK, dar și în materii prime reciclate pentru protecția mediului, reducerea deșeurilor, risipei și poluării.
 - bannere și prelate: [Remesh](https://www.facebook.com/remesh.socialware/) și [UpsideDown](https://www.facebook.com/upsidedownro/)
 - [Circularia](https://www.facebook.com/circularia.ro/?hc_ref=SEARCH) este o platformă care îi conectează pe generatorii de deșeuri sau de materii prime secundare cu cei care le pot valorifica - upcyclers. Pentru început, se concentreaza pe deșeuri textile și de materii prime secundare din care se poate confecționa mobilier.
+- de recondiționare de biciclete se ocupă și cei de la [viața secretă a bicicletelor](https://www.facebook.com/viatasecretaabicicletelor/?hc_location=ufi)
 
 ### Reciclare creativă
 
@@ -35,6 +38,8 @@ Pentru alte idei și ateliere de reciclare creativă:
 ### Reciclează
 
 [Harta Reciclării](https://www.hartareciclarii.ro) îţi arată unde poţi colecta selectiv de la hârtie şi carton, plastic, ulei uzat, sticlă, corpuri de iluminat, cartuşe de imprimantă, anvelope şi acumulatori auto, feroase şi neferoase, deşeuri electrice, electronice şi electrocasnice.
+
+[Environ](https://www.environ.ro) este o organizație colectivă non-profit de management al deșeurilor de echipamente electrice și electronice (DEEE). Pe harta [Unde reciclăm](https://undereciclam.ro/) au pus locurile unde pot fi predate echipamentele spre reciclare.
 
 Uleiul alimentar uzat în chiuvetă sau la canalizare este nociv atât pentru noi, cât și pentru mediu. Dar el este în schimb o resursă regenerabilă. [Uleiosul](http://uleiosul.com/) colectează gratuit acest ulei alimentar uzat folosind o bicicletă utilitară. Uleiul colectat este predat unui centru de colectare unde este separat de reziduuri şi filtrat pentru a putea fi transformat în biodiesel.
 
