@@ -17,7 +17,7 @@ Business-urile din cartier pregătesc și ele activități speciale, și-ți vor
 🔸 Tema ediției: RECICLAREA 🔸
 
 - [Harta online](http://bit.ly/2HDhjml)
-- Harta printată: va fi disponibilă în timpul evenimentului, la mai multe puncte din cartier.
+- [Harta printabilă](https://github.com/incotroceni/incotroceni.github.io/raw/master/assets/Harta_Bazar-de-Cotroceni_print.pdf) 
 
 La plimbare vei găsi:
 
