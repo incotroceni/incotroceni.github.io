@@ -17,3 +17,4 @@ Voluntariat – promovăm acțiuni și programe desfășurate pe bază de volunt
 Respect – membrii comunității sunt conștienti și respectă istoria și tradiția Cotroceniului
 
 Diversitate – membrii comunității sunt de toate vârstele și provin din toate categoriile sociale  
+
