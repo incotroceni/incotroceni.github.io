@@ -97,13 +97,20 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 8. Site navigation
 navigation_header:
-  Acasă: /
-  Implică-te: /implica-te/
-  Proiecte: /proiecte/
-  Evenimente: /evenimente/
-  Despre: /despre/
-  Contact: /contact/
-  Donează: /doneaza/
+  - title: Acasă
+    url: /
+  - title: Implică-te
+    url: /implica-te/
+  - title: Proiecte
+    url: /proiecte/
+  - title: Evenimente
+    url: /evenimente/
+  - title: Despre
+    url: /despre/
+  - title: Contact
+    url: /contact/
+  - title: Donează
+    url: /doneaza/
 
 navigation_footer:
   Abonare la noutăți: http://eepurl.com/ck0bNf
