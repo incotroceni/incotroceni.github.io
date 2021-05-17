@@ -17,14 +17,19 @@ Credem și dorim să susținem o atitudine sustenabilă în ce privește folosir
 
 *Sau urmărește evenimentele din cartier pentru yard sales :)*
 
+[La Taica Lazăr](https://www.facebook.com/lataicalazar) - Magazin de Caritate
+
 [Merci Charity Boutique](http://mercicharity.ro) - este un magazin caritabil apărut în 2011. Acceptă sub formă de donații o varietate largă de obiecte (de la piese de mobilier la accesorii) care sunt valorificate pentru ajutarea cazurilor sociale și medicale de care Asociația Merci Charity Boutique se ocupă.
 
 Site-ul [Lucruri Gratis](http://lucrurigratis.ro/) și grupul de facebook [Free Cycle București](https://www.facebook.com/groups/325116167547550/) sunt comunități online care pun în contact pe cei care au lucruri de care nu mai au nevoie cu cei care le-ar putea folosi.
+
+[Schimbarea borcanelor - București](https://www.facebook.com/groups/schimbarea.borcanelor.bucuresti) - Prelungește viața borcanelor tale! Aici poți dona și primi gratuit borcane și sticle din sticlă.
 
 Alte informații despre soluții care ne ajută să prevenim în primul rând risipa de resurse și să facilităm reciclarea, atunci când prevenirea este dificilă sunt și pe [grupul de facebook Eco-frugal în România](https://www.facebook.com/groups/113214019349919)
 
 #### Alte donații de obiecte diverse   
 
+- [Capace cu suflet](https://www.facebook.com/capacecusuflet) - In loc sa aruncam la gunoi capacele de plastic, le colectam (protejand astfel si natura) si le revalorificam pentru a ajuta diverse mici cauze umanitare
 - cei de la [Papelier](https://www.facebook.com/atelierpapelier/) primesc donații de hârtie pe care o reciclează și transformă în obiecte din hârtie reciclată manual, de la papetărie clasică (coli de hârtie, agende, etichete, plicuri, invitații etc.) până la obiecte de decor interior (lămpi, tapet)
 - prin proiectul [Reconect](https://www.reconect.ro/) cei de la [Ateliere fără frontiere](http://www.atelierefarafrontiere.ro/reconect) colectează DEEE (deșeuri de echipamente electrice și electronice) pe care le transformă în echipamente IT reconditionațe pe care le donează de 11 ani în toată Romania pentru solidaritate și educație prin platforma de donații de calculatoare EDUCLICK, dar și în materii prime reciclate pentru protecția mediului, reducerea deșeurilor, risipei și poluării.
 - bannere și prelate: [Remesh](https://www.facebook.com/remesh.socialware/) și [UpsideDown](https://www.facebook.com/upsidedownro/)
@@ -36,6 +41,10 @@ Alte informații despre soluții care ne ajută să prevenim în primul rând ri
 Pentru alte idei și ateliere de reciclare creativă:
 - [Reciclare creativă](https://www.facebook.com/ReciclareCreativa.ro/)
 - [Pimp the garbage](https://www.facebook.com/pimpthegarbage/)
+
+### Magazine zero waste
+
+[Magazin Zero Waste București](https://www.facebook.com/magazin.zerowaste) - Fără risipă. Etic. Vegan. Spațiu creat din nevoia de a trăi într-o relație conștientă și armonioasă cu tot ce există.
 
 ### Reciclează
 
@@ -50,6 +59,8 @@ Uleiul alimentar uzat în chiuvetă sau la canalizare este nociv atât pentru no
 Misiunea [RoRec](https://www.facebook.com/pg/AsociatiaRoRec/about/?ref=page_internal) este de a contribui activ la conservarea, protecția și îmbunatățirea calității mediului înconjurător și a sănătății umane, pentru utilizarea rațională a resurselor naturale, prin asigurarea de servicii complete de gestionare a deșeurilor de echipamente electrice și electronice și implicit prin reintroducerea materiilor prime în circuitul economic.
 
 ### Initiative legate de permacultură și compost
+
+La [Magazinul Zero Waste București](https://www.facebook.com/magazin.zerowaste) se colectează resturile alimentare ale clienților și sunt transformate în compost la [Gradina Molcom](https://www.facebook.com/Molcom.ro/)
 
 [Grădina de permacultură urbană](https://www.facebook.com/GradinaDinGuraSiriului/) - colectare compost, grădini urbane, ateliere
 
