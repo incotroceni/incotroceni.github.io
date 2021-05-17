@@ -18,7 +18,7 @@ Recomandăm cu drag [manualele și ghidurile pentru cetățeni și organizații]
 
 [Buletin de București](https://buletin.de/bucuresti/) este un proiect editorial unic pe piața media care își propune să explice bucureșteanului realitatea din spatele cifrelor seci din bugetele municipalității, să descopere ce se ascunde în licitațiile publice și care sunt mecanismele care conduc viața urbei în care trăim.
 
-Aplicația [Nu vă supărați](https://nuvasuparati.info/) poate fi ușor folosită pentru a face solicitări de acces la informații publice și apoi de a face răspunsurile publice.
+[Ghidul de supraviețuire civică](https://www.stareademocratiei.ro/ghid/) te ajută să înțelegi care îți sunt drepturile și ce poți face atunci când sunt încălcate.
 
 ### Acționez
 
