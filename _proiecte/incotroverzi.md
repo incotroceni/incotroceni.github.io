@@ -6,13 +6,15 @@ order: 1
 project_image: "../../assets/images/projects-incotroverzi.png"
 ---
 
-Încotroverzi este un grup de inițiativă civică, format în cadrul [Comunității Încotroceni](https://www.facebook.com/groups/390327154644323). Cu ajutorul Asociației Incotroceni și a vecinilor din cartier, am început în februarie 2021 câteva proiecte de mediu prin care oferim celor  interesați instrumente concrete pentru tranziția spre un trai mai sustenabil. Până acum, ne-am asumat patru direcții:
+Încotroverzi este un grup de inițiativă civică, format în cadrul [Comunității Încotroceni](https://www.facebook.com/groups/390327154644323). Cu ajutorul Asociației Incotroceni și a vecinilor din cartier, am început în februarie 2021 câteva proiecte de mediu prin care oferim celor  interesați instrumente concrete pentru tranziția spre un trai mai sustenabil. 
+
+Până acum, ne-am asumat patru direcții:
 
 #### Grădinărit și alimentație sustenabilă
 
 Vrem să învățăm să ne cultivăm singuri hrana și să atragem atenția asupra impactului negativ pe care îl are agricultura industrială. Deocamdată, experimentăm în cadrul Grădinii Istorice din Grădina Botanică din București. În plus, ne organizăm la nivel local pentru a comanda legume bio de la un producător de lângă București. În timp, visăm să împânzim cartierul cu plante comestibile, ținând totodată cont de specificul zonei.
 
-{% include figure.html image="../assets/images/projects-incotrovezi-gradina-istorica.jpeg" position="center" %}
+{% include figure.html image="../../assets/images/projects-incotroverzi-gradina-istorica.jpeg" position="center" %}
 
 #### Deșeuri, economie circulară și colaborativă
 
@@ -22,7 +24,7 @@ Ne propunem să oferim instrumentele necesare pentru a preveni generarea de deș
 
 Vrem să încurajăm vecinii să lase mai des mașina acasă și să se bucure de mișcarea pe două roți sau chiar pe jos. Organizăm ture cu biciclete și trotinete, dar și sesiuni de sport în cartier. Pe lângă beneficiile directe pentru sănătatea locuitorilor, ne propunem pe termen lung să determinăm autoritățile să amenajeze mai multe piste și zone pietonale.
 
-{% include figure.html image="../assets/images/projects-incotrovezi-bicle.jpeg" position="center" %}
+{% include figure.html image="../../assets/images/projects-incotroverzi-bicle.jpeg" position="center" %}
 
 #### Parcuri și spații verzi
 
