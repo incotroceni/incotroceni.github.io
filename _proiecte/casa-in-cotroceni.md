@@ -2,6 +2,7 @@
 layout: project
 title: Casa Încotroceni
 last_updated: 1 February 2017
+order: 2
 ---
 
 > Proiect prin care vrem să vorbim cu vecinii noștri despre ce înseamnă patrimoniu construit, cum facem să îl întreținem și să îl valorificăm.

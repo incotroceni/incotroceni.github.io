@@ -2,6 +2,7 @@
 layout: project
 title: Încotroverzi
 last_updated: 1 June 2021
+order: 1
 project_image: "../../assets/images/projects-incotroverzi.png"
 ---
 

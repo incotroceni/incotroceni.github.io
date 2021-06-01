@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Copacul Încotroceni
+order: 3
 last_updated: 1 December 2018
 ---
 

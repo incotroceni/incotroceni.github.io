@@ -2,6 +2,7 @@
 layout: project
 title: Intersecția groazei
 last_updated: 16 April 2015
+order: 4
 project_image: "../../assets/images/projects-intersectia-groazei.jpg"
 ---
 

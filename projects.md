@@ -4,7 +4,7 @@ title: Proiecte Încotroceni
 permalink: /proiecte/
 ---
 
-{% assign items = site.proiecte | sort: 'last_updated' %}
+{% assign items = site.proiecte | sort: 'order' %}
 {% for proiect in items %}
   <h3>
     <a href="{{ proiect.url }}">
