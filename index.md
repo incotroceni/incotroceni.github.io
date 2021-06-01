@@ -11,12 +11,6 @@ Incotroceni – Oameni, Idei, Povești și-a propus să facă din Cotroceni un s
 *Facem parte din [Reţeaua Civică Bucureşti](http://reteauacivica.ro/). Aceasta este o inițiativă ce reunește în prezent 13 grupuri civice. Reţeaua Civică Bucureşti îşi propune să cultive participarea cetățeanului la viața orașului precum și responsabilizarea politicienilor și a autorității publice pentru un parteneriat onest și responsabil între cetățean, politician ales prin vot, autoritate publică locală.*
 
 <!-- Airly Widget Begin -->
-<script src="https://airly.eu/map/airly.js" type="text/javascript">  
-  
-  
-</script>
-
-<iframe id="airly_1845962070" src="https://airly.eu/map/widget.html#lat=44.42862&lng=26.06949&id=8997&w=280&h=380&m=true&i=true&ah=true&aw=true" style="width:100%;border:none;">
-  
-</iframe>
+<script src="https://airly.org/map/airly.js" type="text/javascript"></script>
+<iframe id="airly_503449057" src="https://airly.org/map/widget.html#w=280&h=380&m=false&i=true&d=false&ah=true&aw=false&l=en&it=AIRLY_CAQI&us=metric&ut=celsius&lat=44.428613&lng=26.069455&id=37982" style="width:280px; height:auto;border:none;"></iframe>
 <!-- Airly Widget End -->
