@@ -20,6 +20,8 @@ Recomandăm cu drag [manualele și ghidurile pentru cetățeni și organizații]
 
 [Ghidul de supraviețuire civică](https://www.stareademocratiei.ro/ghid/) te ajută să înțelegi care îți sunt drepturile și ce poți face atunci când sunt încălcate.
 
+[Cum oprești o toaletare abuzivă?](https://www.greenpeace.org/romania/articol/4268/cum-opresti-o-toaletare-abuziva-de-arbori/)
+
 ### Acționez
 
 [Strânge după câinele tău](https://growupromania.ro/proiecte/strange-dupa-cainele-tau/) - o campanie pornită de [Grow Up România](https://growupromania.ro) adresată către posesorii de patrupede care nu strâng după cățeii lor

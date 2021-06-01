@@ -10,6 +10,7 @@ Credem și dorim să susținem o atitudine sustenabilă în ce privește folosir
 
 - [DrBike](http://www.drbike.ro/reparatii-biciclete-ro.html)
 - [Bike Boutique](https://btq.ro/service.html)
+- [Atelier propriu de reparatii si comenzi incaltaminte Cotroceni](https://www.facebook.com/Atelier-propriu-de-reparatii-si-comenzi-incaltaminte-cotroceni-1783494828540844)
 
 ### Reutilizează
 
@@ -33,16 +34,18 @@ Alte informații despre soluții care ne ajută să prevenim în primul rând ri
 - cei de la [Papelier](https://www.facebook.com/atelierpapelier/) primesc donații de hârtie pe care o reciclează și transformă în obiecte din hârtie reciclată manual, de la papetărie clasică (coli de hârtie, agende, etichete, plicuri, invitații etc.) până la obiecte de decor interior (lămpi, tapet)
 - prin proiectul [Reconect](https://www.reconect.ro/) cei de la [Ateliere fără frontiere](http://www.atelierefarafrontiere.ro/reconect) colectează DEEE (deșeuri de echipamente electrice și electronice) pe care le transformă în echipamente IT reconditionațe pe care le donează de 11 ani în toată Romania pentru solidaritate și educație prin platforma de donații de calculatoare EDUCLICK, dar și în materii prime reciclate pentru protecția mediului, reducerea deșeurilor, risipei și poluării.
 - bannere și prelate: [Remesh](https://www.facebook.com/remesh.socialware/) și [UpsideDown](https://www.facebook.com/upsidedownro/)
-- [Circularia](https://www.facebook.com/circularia.ro/?hc_ref=SEARCH) este o platformă care îi conectează pe generatorii de deșeuri sau de materii prime secundare cu cei care le pot valorifica - upcyclers. Pentru început, se concentreaza pe deșeuri textile și de materii prime secundare din care se poate confecționa mobilier.
 - de recondiționare de biciclete se ocupă și cei de la [viața secretă a bicicletelor](https://www.facebook.com/viatasecretaabicicletelor/?hc_location=ufi)
 
 ### Reciclare creativă
 
 Pentru alte idei și ateliere de reciclare creativă:
 - [Reciclare creativă](https://www.facebook.com/ReciclareCreativa.ro/)
-- [Pimp the garbage](https://www.facebook.com/pimpthegarbage/)
+
+[Upcycling în România](https://www.google.com/maps/d/u/0/viewer?mid=1_XI__joghOQWCrdJESEBPDfvA1k&ll=45.1533684940549%2C29.49738450468748&z=7) - artiști, meșteri și artizani care tranformă resursele considerate de alții deșeuri în produse utile sau în opere de artă
 
 ### Magazine zero waste
+
+[Harta Zero Waste](https://www.zerowasteromania.org/harta-zero-waste/) - prima hartă a inițiativelor compatibile cu principiile zero waste din România
 
 [Magazin Zero Waste București](https://www.facebook.com/magazin.zerowaste) - Fără risipă. Etic. Vegan. Spațiu creat din nevoia de a trăi într-o relație conștientă și armonioasă cu tot ce există.
 
