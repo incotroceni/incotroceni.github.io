@@ -28,6 +28,8 @@ Site-ul [Lucruri Gratis](http://lucrurigratis.ro/) și grupul de facebook [Free 
 
 Alte informații despre soluții care ne ajută să prevenim în primul rând risipa de resurse și să facilităm reciclarea, atunci când prevenirea este dificilă sunt și pe [grupul de facebook Eco-frugal în România](https://www.facebook.com/groups/113214019349919)
 
+[Centru Integrat de Economie Circulară cu sprijin umanitar din București](https://copaculcufaptebune.ro/cauze-sociale/centru-umanitar-integrat-bucuresti/) - Hainele, jucăriile, electronicele și mobilierul pot fi duse la Centrul integrat umanitar de economie circulară din București
+
 #### Alte donații de obiecte diverse   
 
 - [Capace cu suflet](https://www.facebook.com/capacecusuflet) - In loc sa aruncam la gunoi capacele de plastic, le colectam (protejand astfel si natura) si le revalorificam pentru a ajuta diverse mici cauze umanitare
