@@ -37,6 +37,7 @@ Alte informații despre soluții care ne ajută să prevenim în primul rând ri
 - prin proiectul [Reconect](https://www.reconect.ro/) cei de la [Ateliere fără frontiere](http://www.atelierefarafrontiere.ro/reconect) colectează DEEE (deșeuri de echipamente electrice și electronice) pe care le transformă în echipamente IT reconditionațe pe care le donează de 11 ani în toată Romania pentru solidaritate și educație prin platforma de donații de calculatoare EDUCLICK, dar și în materii prime reciclate pentru protecția mediului, reducerea deșeurilor, risipei și poluării.
 - bannere și prelate: [Remesh](https://www.facebook.com/remesh.socialware/) și [UpsideDown](https://www.facebook.com/upsidedownro/)
 - de recondiționare de biciclete se ocupă și cei de la [viața secretă a bicicletelor](https://www.facebook.com/viatasecretaabicicletelor/?hc_location=ufi)
+- umerașe de metal refolosesc cei de la [Softwash](https://www.facebook.com/softwash.ro/)
 
 ### Reciclare creativă
 
