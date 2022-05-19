@@ -70,7 +70,7 @@ La [Magazinul Zero Waste București](https://www.facebook.com/magazin.zerowaste)
 
 [Grădina de permacultură urbană](https://www.facebook.com/GradinaDinGuraSiriului/) - colectare compost, grădini urbane, ateliere
 
-[Transition Towns](https://www.facebook.com/InTranzitie/) este o mișcare socială de tip grassroots care dorește să faciliteze tranziția comunităților locale și al invidivizilor către un trai mai sustenabil și mai integrat în natură.
+[Transition Towns](https://www.facebook.com/InTranzitie/) este o mișcare socială de tip grassroots care dorește să faciliteze tranziția comunităților locale și al invidivizilor către un trai mai sustenabil și mai integrat în natură. 
 
 [Semințe libere](https://www.facebook.com/semintelibere/) - Dăruiesc necondiționat surplusul de semințe "la pachet" cu pasiunea și iubirea de natură și roade sănătoase. Semințele se pot dărui și în plic sau direct, la Piețele de Semințe libere ce le organizează la fiecare început de an în țară. Grupul activ cu peste 12.000 membri îl găsiți aici: https://www.facebook.com/groups/seminte.libere/
 
