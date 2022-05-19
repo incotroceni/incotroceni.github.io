@@ -15,8 +15,8 @@ Indiferent ce oamenii sau business-urile din cartier decid să organizeze, motiv
 
 *Eveniment în cadrul Romanian Design Week (RDW). Parteneri media: Cronicari digitali, Radio Guerrilla, DigiTV, Munteanu recomandă.*
 
-- [Harta online]([http://bit.ly/2HDhjml](https://bit.ly/3Mo5ksZ))
-- [Harta printabilă]() 
+- [Harta online](https://bit.ly/3Mo5ksZ)
+- Harta printabilă
 
 La plimbare vei găsi:
 
