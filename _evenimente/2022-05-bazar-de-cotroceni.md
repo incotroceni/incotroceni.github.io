@@ -1,9 +1,9 @@
 ---
 layout: event
 title: Bazar de Cotroceni 2022
-date: 21-22 May 2022
+date: 21 - 22 May 2022
 time: 10.00 – 20.00
-event_image: "../../assets/images/events-2022-05-bazar-cover.jpeg"
+event_image: "../../assets/images/events-2022-05-bazar-cover.png"
 facebook_link: https://www.facebook.com/events/399405465109927/399405475109926
 ---
 
