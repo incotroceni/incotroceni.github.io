@@ -22,7 +22,7 @@ Credem și dorim să susținem o atitudine sustenabilă în ce privește folosir
 
 [Merci Charity Boutique](http://mercicharity.ro) - este un magazin caritabil apărut în 2011. Acceptă sub formă de donații o varietate largă de obiecte (de la piese de mobilier la accesorii) care sunt valorificate pentru ajutarea cazurilor sociale și medicale de care Asociația Merci Charity Boutique se ocupă.
 
-Site-ul [Lucruri Gratis](http://lucrurigratis.ro/) și grupul de facebook [Free Cycle București](https://www.facebook.com/groups/325116167547550/) sunt comunități online care pun în contact pe cei care au lucruri de care nu mai au nevoie cu cei care le-ar putea folosi.
+Site-ul [Lucruri Gratis](http://lucrurigratis.ro/) și grupul de facebook [Free Cycle București](https://www.facebook.com/groups/325116167547550/) sunt comunități online care pun în contact pe cei care au lucruri de care nu mai au nevoie cu cei care le-ar putea folosi. 
 
 [Schimbarea borcanelor - București](https://www.facebook.com/groups/schimbarea.borcanelor.bucuresti) - Prelungește viața borcanelor tale! Aici poți dona și primi gratuit borcane și sticle din sticlă.
 
