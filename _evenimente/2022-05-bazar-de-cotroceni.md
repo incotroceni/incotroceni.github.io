@@ -22,9 +22,11 @@ La plimbare vei găsi:
 
 🔸 HOT SPOTS
 
+- [Murale cu tema #staipadureacasa by buchARTest](https://buchartest.org/blog/buchartest-2020) @Staicovici 45-49 - intervenție urbană pentru conștientizarea importanței pădurilor și a tăierilor ilegale | regenerare urbană și umană cu Lucian Sandu Milea | 16 - 22 mai 
 - [Sounds of Cotroceni](https://bit.ly/3Mevz5e) @Pasteur 12 - musical surprises from 16.30 | vinyl | contemporary Jewellery- Lady Magpie, Hip Second Hand - Strident Vintage | ice cream, Primitivo wine & food by Primitiv BBQ 
 - [ZarBaZar](https://bit.ly/3FNwB5v) @Elefterie 26 by Mr. Jurjak (Undeva in Cotroceni) & friends - târg de vechituri | digital art | muzică 
 - [Concert Bad Boiler](https://bit.ly/3FMiGwR) @Iatropol 20, de la 19:00-19:45 | muzică blues rock pe garaj
+- Art Food & Wine @Obedenaru-Gheorghiade 4 | Workshop pentru copii (10.00-13.00) | Bazarul și minunile lui @Michel "Le Pirate" gătește, @Gabriel Bălașa cântă la handpan | Workshop de arte marțiale @Sorin Boncea (17.00-20.00) | Concert ZUM & guests (20.00-21.00)
 
 🔸 ACTIVITIES
 
@@ -83,7 +85,7 @@ La plimbare vei găsi:
 - Coca Zaboloteanu, Atelier & Showroom @Cristea Buicliu 2A
 - Casa din Turnescu 1: Stardust Architects x Atelier Tron x Studio Mud - ceramics | obiecte de design & more
 - Flower Shop Piata Cotroceni - flori și ale lor miresme
--Mon Chic Jasmin @Lister 3
+- Mon Chic Jasmin @Lister 3
 - MNLR - Casa Memorială „Liviu și Fanny Rebreanu” Casa Memorială „Ion Minulescu și Claudia Millian”
 - WareWare Waistbags - ZarBaZaR@Elefterie 26
 - Ograda @Pasteur 48A
@@ -97,7 +99,7 @@ La plimbare vei găsi:
 
 - Asteroidul B 612 @Carol Davila 96 – books 4 kids & more | Detalii: https://bit.ly/38ownpw
 - Galeria Romniceanu @Romniceanu 27
-- Școala Gimnazială nr. 150 - activități sportive la liber, în curtea școlii
+- Școala Gimnazială nr. 150 - activități sportive pe terenul sintetic (interval 10.00-13.00) și expoziție cu vânzare (10.00-12.00), diverse produse confecționate de către elevii clasei a IV-a C (coord. Prof. Înv primar Coarna Iuliana) și clasa a III-a C (coord. Prof. Înv primar Iordănescu Simona)
 
 🔸 HEALTH & SPORTS & CARE
 
@@ -106,6 +108,7 @@ La plimbare vei găsi:
 - Trident @Pasteur 1A
 - Dipadent @Pasteur 56
 - Samyra Aesthetic Dentistry @Romniceanu 12 | Detalii: https://bit.ly/3Nkl1Bp
+- Clinica Mind Garden @Radovici 8
 - Savonia @Staicovici 35 - natural cosmetics & vintage clothes
 - Class Cotroceni Beauty Lounge @Severeanu 12 | Detalii: https://bit.ly/3yEc16k
 - Tenis & Golf Mall @Carol Davila 3
@@ -113,7 +116,8 @@ La plimbare vei găsi:
 
 🔸 PETS
 
-- Asociația Animal Society @Nicolae Vicol 2A • Metropolitan Vet @Poloni 24
+- Asociația Animal Society @Nicolae Vicol 2A
+- Metropolitan Vet @Poloni 24
 
 Te așteptăm la plimbare!
 
