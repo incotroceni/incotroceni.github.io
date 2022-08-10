@@ -8,7 +8,7 @@ Incotroceni – Oameni, Idei, Povești și-a propus să facă din Cotroceni un s
 
 > Înscrie-te la Newsletter-ul Incotroceni - Oameni, Idei, Povești și fii la curent cu ce se întâmplă în cartierul tău! [Vreau să mă abonez](http://eepurl.com/ck0bNf)
 
-<div class="container" style="position: relative;  overflow: hidden;  width: 100%;  padding-top: 56.25%;">
+<div class="container" style="position: relative;  overflow: hidden;  width: 100%;  padding-top: 56.25%; height: 800px">
   
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfYH382upLpyKbiTtv_nGYfQZSsNNhszk9ulLNOq3dHpuQ9UA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" style="position: absolute;top: 0;left: 0;bottom: 0;right: 0;width: 100%;height: 100%;">Loading…</iframe>
   </div>
