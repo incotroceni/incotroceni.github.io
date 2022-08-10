@@ -8,7 +8,10 @@ Incotroceni – Oameni, Idei, Povești și-a propus să facă din Cotroceni un s
 
 > Înscrie-te la Newsletter-ul Incotroceni - Oameni, Idei, Povești și fii la curent cu ce se întâmplă în cartierul tău! [Vreau să mă abonez](http://eepurl.com/ck0bNf)
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfYH382upLpyKbiTtv_nGYfQZSsNNhszk9ulLNOq3dHpuQ9UA/viewform?embedded=true" width="640" height="382" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<div class="container">
+  
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfYH382upLpyKbiTtv_nGYfQZSsNNhszk9ulLNOq3dHpuQ9UA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+  </div>
 
 *Facem parte din [Reţeaua Civică Bucureşti](http://reteauacivica.ro/). Aceasta este o inițiativă ce reunește în prezent 13 grupuri civice. Reţeaua Civică Bucureşti îşi propune să cultive participarea cetățeanului la viața orașului precum și responsabilizarea politicienilor și a autorității publice pentru un parteneriat onest și responsabil între cetățean, politician ales prin vot, autoritate publică locală.*
 
