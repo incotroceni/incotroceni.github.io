@@ -1,0 +1,9 @@
+{
+  "lang": "ro-RO",
+  "name": "Asociația Incotroceni",
+  "short_name": "AsociațiaIncotroceni",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  "start_url": "/",
+  "display": "standalone"
+}
