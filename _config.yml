@@ -67,6 +67,7 @@ collections:
   evenimente:
     title: Evenimente Incotroceni
     output: true
+    permalink: /evenimente/:path
 
   proiecte:
     title: Proiecte Incotroceni
