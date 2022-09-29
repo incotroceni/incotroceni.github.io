@@ -1,11 +1,11 @@
 ---
-layout: event
+layout: page-hide-title
 title: Bazar de Cotroceni 2022
-date: 1-2 October 2022
-time: 10.00 – 20.00
-event_image: "../../assets/images/events-2022-10-bazar-cover.jpg"
+permalink: /evenimente/2022-10-bazar-de-cotroceni
 facebook_link: https://www.facebook.com/events/1037424860298289
 ---
+
+{% include figure.html image="../assets/images/inscriere-bazar-2022-10.png" position="center" %}
 
 Primele frunze uscate pe asfalt și case scăldate în lumina aurie a apusului. Sărbătorim spectacolul naturii în cel mai frumos cartier din București, unde peste 150 de curți private și de afaceri locale își așteaptă vizitatorii: iubitori de haine și obiecte vintage, pozari în timpul liber, degustători de vinuri, curioși cu normă întreagă și descoperitori urbani.
 
@@ -19,6 +19,9 @@ Bazar de Cotroceni este organizat de Asociația Incotroceni și de comunitatea c
 - [Harta printabilă](https://bit.ly/3SJXblk) 
 - [Afișul evenimentului](https://bit.ly/3dTr2Jq) 
 
+
 > Harta printată va fi disponibilă în timpul evenimentului la: Pergola Cotroceni, Kicen (Staicovici, Carol Davila), Zissou/Bocca Lupo, La Petite Bouffe și Throwback Coffee.
+
+{% include button.html text="Urmărește evenimentul pe facebook" link="https://www.facebook.com/events/1037424860298289" icon="facebook" %}
 
 *Parteneri media: Radio Guerrilla, Munteanu recomandă.*
