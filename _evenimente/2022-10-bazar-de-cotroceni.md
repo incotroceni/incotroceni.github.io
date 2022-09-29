@@ -16,8 +16,8 @@ Bazar de Cotroceni este organizat de Asociația Incotroceni și de comunitatea c
 Încurajăm participanții să vină cu mijloacele de transport în comun (metrou: stația Eroilor), sau cu orice alte mijloace alternative – inclusiv scutere electrice de la Blinkee.city. Dacă, totuși, veniți cu mașina personală, vă recomandăm să folosiți parcarea publică (și gratuită în weekend) de pe podul din fața Operei Române.
 
 - [Harta online](https://bit.ly/3LL02Zd)
-- [Harta printabilă](https://bit.ly/3SJXblk) 
-- [Afișul evenimentului](https://bit.ly/3dTr2Jq) 
+- [Harta printabilă](https://incotroceni.ro/evenimente/2022-10-bazar-de-cotroceni/harta) 
+- [Afișul evenimentului](https://incotroceni.ro/evenimente/2022-10-bazar-de-cotroceni/afis) 
 
 > Harta printată va fi disponibilă în timpul evenimentului la: Pergola Cotroceni, Kicen (Staicovici, Carol Davila), Zissou/Bocca Lupo, La Petite Bouffe și Throwback Coffee.
 
