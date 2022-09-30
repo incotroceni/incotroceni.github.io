@@ -18,6 +18,7 @@ Bazar de Cotroceni este organizat de Asociația Incotroceni și de comunitatea c
 - [Harta online](https://bit.ly/3LL02Zd)
 - [Harta printabilă](https://incotroceni.ro/evenimente/2022-10-bazar-de-cotroceni/harta) 
 - [Afișul evenimentului](https://incotroceni.ro/evenimente/2022-10-bazar-de-cotroceni/afis) 
+- [QR Coduri printabile](https://incotroceni.ro/evenimente/2022-10-bazar-de-cotroceni/qr)
 
 > Harta printată va fi disponibilă în timpul evenimentului la: Pergola Cotroceni, Kicen (Staicovici, Carol Davila), Zissou/Bocca Lupo, La Petite Bouffe și Throwback Coffee.
 
