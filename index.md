@@ -8,6 +8,8 @@ Incotroceni – Oameni, Idei, Povești și-a propus să facă din Cotroceni un s
 
 > **Te invităm la ediția de primăvară a evenimentului comunității, Bazar de Cotroceni, care va avea loc pe 27-28 mai.**
 
+{% include figure.html image="../assets/images/inscrieri-bazar-mai-2023.png" alt="Inscriere Bazar" %}
+
 {% include button.html text="Înscrie o curte sau un business la bazar" link="http://incotroceni.ro/inscriere-bazar" %}
 
 > Înscrie-te la Newsletter-ul Incotroceni - Oameni, Idei, Povești și fii la curent cu ce se întâmplă în cartierul tău! [Vreau să mă abonez](http://eepurl.com/ck0bNf)
