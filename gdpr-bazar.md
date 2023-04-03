@@ -8,18 +8,18 @@ permalink: /bazar/gdpr
 
 Bazar de Cotroceni este organizat de Asociația Incotroceni – Oameni, Idei, Povești, persoană juridică înscrisă în Registrul Asociațiilor şi Fundațiilor conform certificatului nr. 3632/302/2016, cu sediul în București, Str. Louis Pasteur nr. 48A, ap. 1, sector 5, CIF 36345086 (denumită în cuprinsul prezentului document “Operatorul”).
 
-În cuprinsul prezentului document, se va face referire la „Termenii și condițiile generale” ale Bazar de Cotroceni, ce se regăsesc pe [www.incotroceni.ro](www.incotroceni.ro)
+În cuprinsul prezentului document, se va face referire la „Termenii și condițiile generale” ale Bazar de Cotroceni, ce se regăsesc pe [www.incotroceni.ro](http://www.incotroceni.ro)
 
 #### 2.  DATELE CU CARACTER PERSONAL PRELUCRATE ȘI SCOPUL PRELUCRĂRII ACESTORA
 
-Operatorul prelucrează datele dumneavoastră cu caracter personal colectate prin intermediul site-ului [www.incotroceni.ro](www.incotroceni.ro) (în continuare, “Site-ul”), în scopurile conectării („logării”) Dumneavoastră în formularul de înscriere, al asigurării serviciilor la care sunteți îndreptățiți pentru participarea la Bazar de Cotroceni (în continuare, „Bazar”), al informării Dumneavoastră cu privire la organizarea Bazarului, al evaluării produselor și serviciilor din cadrul Bazarului (cartierul Cotroceni, București).
+Operatorul prelucrează datele dumneavoastră cu caracter personal colectate prin intermediul site-ului [www.incotroceni.ro](http://www.incotroceni.ro) (în continuare, “Site-ul”), în scopurile conectării („logării”) Dumneavoastră în formularul de înscriere, al asigurării serviciilor la care sunteți îndreptățiți pentru participarea la Bazar de Cotroceni (în continuare, „Bazar”), al informării Dumneavoastră cu privire la organizarea Bazarului, al evaluării produselor și serviciilor din cadrul Bazarului (cartierul Cotroceni, București).
 
 Operatorul va prelucra datele dumneavoastră cu caracter personal pe care le furnizați în mod direct în contextul utilizării Site-ului, cum ar fi datele pe care le furnizați în cadrul secțiunii de contact / întrebări / reclamații, în măsura în care ne contactați în acest fel.
 Pentru analizarea preferințelor participanților la Bazar, Operatorul prelucrează date agregate, prin care NU se realizează profiluri individuale ale participanților la Bazar.
 
 Prelucrarea datelor în scopuri comerciale, de publicitate, de media, administrative, se va face doar cu acordul Dumneavoastră prealabil, acordat expres în acest sens.
 
-2.1. Operatorul nu va prelucra decât următoarele date cu caracter personal:  1) numele și prenumele; 2) adresa de e-mail;  3) numărul de telefon. 
+2.1. Operatorul nu va prelucra decât următoarele date cu caracter personal:  1) numele și prenumele; 2) adresa de e-mail;  3) numărul de telefon.
 
 2.2. Operatorul prelucrează datele Dumneavoastră de identificare și de contact în următoarele scopuri:
 a) obținerea unui consimțământ valabil exprimat; b) conectarea Dumneavoastră în formularul de înscriere și evitarea fraudelor; c) protejarea drepturilor și intereselor legitime ale Operatorului și asigurarea bunei desfășurări a Bazarului (exemplu: interesul de nu permite accesul în zona Bazarului decât a persoanei/business-ului care s-au înscris prin formular și au acceptat în mod expres Termenii & condițiile de organizare a Bazarului).
