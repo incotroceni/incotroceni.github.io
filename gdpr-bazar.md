@@ -4,13 +4,13 @@ title: Reguli GDPR - Bazar de Cotroceni
 permalink: /bazar/gdpr
 ---
 
-### 1. DESPRE NOI
+#### 1. DESPRE NOI
 
 Bazar de Cotroceni este organizat de Asociația Incotroceni – Oameni, Idei, Povești, persoană juridică înscrisă în Registrul Asociațiilor şi Fundațiilor conform certificatului nr. 3632/302/2016, cu sediul în București, Str. Louis Pasteur nr. 48A, ap. 1, sector 5, CIF 36345086 (denumită în cuprinsul prezentului document “Operatorul”).
 
 În cuprinsul prezentului document, se va face referire la „Termenii și condițiile generale” ale Bazar de Cotroceni, ce se regăsesc pe [www.incotroceni.ro](www.incotroceni.ro)
 
-### 2.  DATELE CU CARACTER PERSONAL PRELUCRATE ȘI SCOPUL PRELUCRĂRII ACESTORA
+#### 2.  DATELE CU CARACTER PERSONAL PRELUCRATE ȘI SCOPUL PRELUCRĂRII ACESTORA
 
 Operatorul prelucrează datele dumneavoastră cu caracter personal colectate prin intermediul site-ului [www.incotroceni.ro](www.incotroceni.ro) (în continuare, “Site-ul”), în scopurile conectării („logării”) Dumneavoastră în formularul de înscriere, al asigurării serviciilor la care sunteți îndreptățiți pentru participarea la Bazar de Cotroceni (în continuare, „Bazar”), al informării Dumneavoastră cu privire la organizarea Bazarului, al evaluării produselor și serviciilor din cadrul Bazarului (cartierul Cotroceni, București).
 
@@ -26,7 +26,7 @@ a) obținerea unui consimțământ valabil exprimat; b) conectarea Dumneavoastr�
 
 2.3. Furnizarea datelor dumneavoastră este voluntară. Refuzul furnizării consimțământului pentru prelucrarea datelor dumneavoastră în acest scop nu va avea urmări negative pentru dumneavoastră.
 
-### 3. CEILALTI TERMENI
+#### 3. CEILALTI TERMENI
 
 3.0. Datele Dumneavoastră cu caracter personal vor fi stocate pe serverele noastre din România.
 
@@ -38,11 +38,11 @@ Procesatorul aparține Societății NETOPIA SRL, entitate juridică română, cu
 
 3.3. Transmiterea datelor Dumneavoastră cu caracter personal către contabili sau auditori, către avocați sau către alți asemenea consilieri externi ai operatorului, ori de câte ori este necesară realizarea/protejarea unui drept sau interes legitim al operatorului, NU reprezintă o prelucrare a datelor cu caracter personal.
 
-### 4. CAT TIMP PASTRAM DATELE
+#### 4. CAT TIMP PASTRAM DATELE
 
 Vom păstra datele Dumneavoastră cu caracter personal pentru o perioadă rezonabilă de timp, stabilită în funcție de scopul pentru care prelucrăm datele. Anumite date ar putea fi reținute mai mult timp, în cazul în care acestea sunt necesare pentru investigarea fraudelor sau altor fapte antisociale.
 
-### 5. DREPTURILE DUMNEAVOASTRA
+#### 5. DREPTURILE DUMNEAVOASTRA
 
 5.1. Dreptul la retragerea consimțământului
 În cazul în care, în viitor, veți fi consimțit la prelucrarea datelor în scopul transmiterii de comunicări comerciale, vă veți putea retrage oricând consimțământul trimițând un e-mail la adresa salut@incotroceni.ro.
@@ -67,7 +67,7 @@ Aveți dreptul de a solicita operatorului ca anumite date cu caracter personal s
 5.6. Dreptul la portabilitatea datelor
 Aveți dreptul de a transfera datele Dumneavoastră cu caracter personal către un alt operator, în cazul în care prelucrarea are la bază consimțământul Dumneavoastră sau executarea unui contract și se realizează prin mijloace automate.
 
-### 6.   DEPUNEREA UNEI PLANGERI
+#### 6.   DEPUNEREA UNEI PLANGERI
 
 În cazul în care considerați că drepturile și/sau interesele legitime privind prelucrarea datelor Dumneavoastră cu caracter personal vor fi fost încălcate, vă puteți adresa
 a) cu plângere la Autoritatea Națională Pentru Prelucrarea și Supravegherea Datelor cu Caracter Personal (București, Bulevardul General Gheorghe Magheru Nr. 28-30, Sector 1, anspdcp@ro) sau
