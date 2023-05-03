@@ -6,6 +6,8 @@ permalink: /doneaza/
 
 Fie că ajuți pentru a susține un eveniment sau pentru plantarea unui copac, donația ta susține proiectele comunității Incotroceni, de care te vei bucura și tu!
 
+> Poți [susține Asociația Incotroceni](https://redirectioneaza.ro/incotroceni) redirecționând 3.5% din impozitul pe venit.
+
 #### Datele asociației
 &nbsp;
 >**Adresa:**  Dr. Louis Pasteur nr. 48 A, ap.1, sectorul 5, București  
