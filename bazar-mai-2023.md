@@ -5,6 +5,8 @@ permalink: /evenimente/2023-05-bazar-de-cotroceni
 facebook_link: https://www.facebook.com/events/916851236258781
 ---
 
+{% include figure.html image="../assets/images/events-2023-05-bazar-cover.jpgg" position="center" %}
+
 Cotroceni, cel mai frumos cartier din București, își redeschide curțile pentru cea de-a VI-a ediție a Bazar de Cotroceni, care va avea loc weekendul 27-28 mai. 
 
 Moonlight Breakfast, Jurjak, Corina Sîrghi, Dora Gaitanovici sunt o parte din artiștii care vor concerta live sâmbătă și duminică, în unele dintre cele mai frumoase grădini ale caselor de patrimoniu. Programul muzical este completat de Sounds of Cotroceni, precum și de 3 concerte cu muzică clasică: Classic Cotroceni cu bursierii SoNoRo în curtea din Dr. Curie 3,  ZOISS  home design în grădina din Bd. Eroii Sanitari 23 și Bazar muzical #Aiciastat, care avea loc în una dintre cele mai fotografiate case istorice din cartier, care, cu ocazia Bazarului, va fi deschisă în premieră.
