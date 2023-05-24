@@ -5,7 +5,7 @@ permalink: /evenimente/2023-05-bazar-de-cotroceni
 facebook_link: https://www.facebook.com/events/916851236258781
 ---
 
-{% include figure.html image="../assets/images/events-2023-05-bazar-cover.jpgg" position="center" %}
+{% include figure.html image="../assets/images/events-2023-05-bazar-cover.jpg" position="center" %}
 
 Cotroceni, cel mai frumos cartier din București, își redeschide curțile pentru cea de-a VI-a ediție a Bazar de Cotroceni, care va avea loc weekendul 27-28 mai. 
 
