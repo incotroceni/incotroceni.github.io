@@ -17,7 +17,6 @@ Programul ediției de primăvară este disponibil [aici](https://www.facebook.co
 
 - [Harta online](https://bit.ly/3LL02Zd)
 - [Harta printabilă](https://incotroceni.ro/evenimente/2023-05-bazar-de-cotroceni/harta) 
-- [Afișul evenimentului](https://incotroceni.ro/evenimente/2023-05-bazar-de-cotroceni/afis) 
 
 > Harta printată va fi disponibilă în timpul evenimentului la mai multe puncte din cartier, iar programul complet poate fi consultat online, [AICI](https://bit.ly/3LL02Zd)).
 
