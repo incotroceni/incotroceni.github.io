@@ -10,4 +10,4 @@ permalink: /evenimente/2023-05-bazar-de-cotroceni/qr
 
 # QR Code pentru harta printabila
 
-{% include figure.html image="../../assets/images/qr_code_harta_bazar_print_oct_2023.png" position="center" %}
+{% include figure.html image="../../assets/images/qr_code_harta_bazar_print_mai_2023.png" position="center" %}
