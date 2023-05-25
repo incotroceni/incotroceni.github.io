@@ -24,13 +24,13 @@ Programul ediției de primăvară este disponibil [aici](https://www.facebook.co
 *Evenimentul Bazar de Cotroceni este organizat de Asociația Incotroceni și creat de comunitatea cartierului - locuitori și businessuri locale. *
 
 Partenerii comunității: Vodafone România, NN România
-</br>
+
 Parteneri locali: ZOISS home design, JW Marriott Bucharest Grand Hotel, Avincis, Forbes România, Uplifting Service, CGA infrastructure.
-</br>
+
 Parteneri culturali: Aici a stat, BandBook, Munteanu, Lazar Bara Creative PR, Rezistența Urbană, Igloo, A List Magazine, Radio România Cultural, IQads
-</br>
+
 Partener radio: Radio Guerrilla
-</br>
+
 Parteneri de e-mobilitate: Bolt
 
 *Bazar de Cotroceni este parte din Romanian Design Week / RDW Design Go. *
