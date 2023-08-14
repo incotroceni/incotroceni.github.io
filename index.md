@@ -8,7 +8,7 @@ Incotroceni – Oameni, Idei, Povești și-a propus să facă din Cotroceni un s
 
 > **Te invităm la ediția de toamnă a evenimentului comunității, Bazar de Cotroceni, care va avea loc pe 7-8 octombrie.**
 
-{% include button.html text="Înscrie o curte sau un business la bazar" link="http://incotroceni.ro/inscriere-bazar" %}
+{% include button.html text="Înscrie o curte sau un business la Bazar" link="http://incotroceni.ro/inscriere-bazar" %}
 
 > Înscrie-te la Newsletter-ul Incotroceni - Oameni, Idei, Povești și fii la curent cu ce se întâmplă în cartierul tău! [Vreau să mă abonez](http://eepurl.com/ck0bNf)
 
