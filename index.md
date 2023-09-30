@@ -6,7 +6,7 @@ feature_image: "assets/images/home-feature.jpg"
 
 Incotroceni – Oameni, Idei, Povești și-a propus să facă din Cotroceni un spațiu mai bun de locuire, un cartier mai primitor și mai armonios, în care calitatea vieții să crească. Scopul nostru îl constituie dezvoltarea, promovarea și sprijinirea comunității din cartierul Cotroceni și a identității acestuia, pe direcții de acțiune: (I) social – cultural și (II) arhitectură, urbanism și infrastructură. [Află mai multe...](/despre)
 
-> **Te invităm la ediția de toamnă a evenimentului comunității, Bazar de Cotroceni, care va avea loc pe 7-8 octombrie.**
+> **Te invităm la ediția de toamnă a evenimentului comunității, [Bazar de Cotroceni](https://www.facebook.com/events/6378254645620880/), care va avea loc pe 7-8 octombrie.**
 
 {% include button.html text="Înscrie o curte sau un business la Bazar" link="http://incotroceni.ro/inscriere-bazar" %}
 
