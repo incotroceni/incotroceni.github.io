@@ -1,36 +1,35 @@
 ---
 layout: page-hide-title
-title: Bazar de Cotroceni 2023
-permalink: /evenimente/2023-05-bazar-de-cotroceni
-facebook_link: https://www.facebook.com/events/916851236258781
+title: Bazar de Cotroceni ~ octombrie 2023
+permalink: /evenimente/2023-10-bazar-de-cotroceni
+facebook_link: https://www.facebook.com/events/6378254645620880
 ---
 
-{% include figure.html image="../assets/images/events-2023-05-bazar-cover.jpg" position="center" %}
+{% include figure.html image="../assets/images/events-2023-10-bazar-cover.jpg" position="center" %}
 
-Cotroceni, cel mai frumos cartier din București, își redeschide curțile pentru cea de-a VI-a ediție a Bazar de Cotroceni, care va avea loc weekendul 27-28 mai. 
+Pe 7 și 8 octombrie, cartierul Cotroceni găzduiește a 7-a ediție a Bazar de Cotroceni - evenimentul comunității.
 
-Moonlight Breakfast, Jurjak, Corina Sîrghi, Dora Gaitanovici sunt o parte din artiștii care vor concerta live sâmbătă și duminică, în unele dintre cele mai frumoase grădini ale caselor de patrimoniu. Programul muzical este completat de Sounds of Cotroceni, precum și de 3 concerte cu muzică clasică: Classic Cotroceni cu bursierii SoNoRo în curtea din Dr. Curie 3,  ZOISS  home design în grădina din Bd. Eroii Sanitari 23 și Bazar muzical #Aiciastat, care avea loc în una dintre cele mai fotografiate case istorice din cartier, care, cu ocazia Bazarului, va fi deschisă în premieră.
+Bazar de Cotroceni este invitația de a descoperi comunitatea și cartierul - cu străzile lui boeme și aer romantic - la pas, în plimbare (nu cu mașina).
 
-La această ediție, s-au înscris peste 180 de curți private, un număr record de vecini și prieteni ai cartierului, care vor expune mici standuri cu bijuterii, obiecte artizanale, limonadă, haine și obiecte decorative și peste 70 de afaceri locale - ateliere de creație, studiouri de design și arhitectură, showroom-uri - care își așteaptă vizitatorii cu evenimente de tip open doors. La acestea, se adaugă bistrouri, cafenele și restaurante cochete care pregătesc meniuri speciale și evenimente surpriză  pentru toți cei care le calcă pragul. 
+Traficul auto nu este blocat, întrucât rezidenții își continuă activitățile casnice pe perioada weekend-ului, însă vizitatorii cartierului sunt rugați să nu vină cu mașina, ci să opteze pentru alte mijloace de transport, ca o formă de respect pentru toți participanții.
 
 - [Harta online](https://bit.ly/3LL02Zd)
-- [Harta printabilă](https://incotroceni.ro/evenimente/2023-05-bazar-de-cotroceni/harta) 
-- [QR Coduri printabile](https://incotroceni.ro/evenimente/2023-05-bazar-de-cotroceni/qr)
+- [Harta printabilă](https://incotroceni.ro/evenimente/2023-10-bazar-de-cotroceni/harta) 
+- [QR Coduri printabile](https://incotroceni.ro/evenimente/2023-10-bazar-de-cotroceni/qr)
 
-Programul ediției de primăvară este disponibil [aici](https://www.facebook.com/events/916851236258781) și cuprinde 4 zone mari de interes, cu activități gratuite, special organizate atât pentru cei mici, dar și pentru cei mari: concerte live cu sprijinul Vodafone România, sesiuni de yoga & wellbeing în Grădina Botanică cu Activero, atelier de pictură pentru la  Galeria Romniceanu, ambele oferite de NN România, precum și tururi arhitecturale ghidate, realizate de Cristi Radu.
+Programul ediției de toamnă este disponibil [aici](https://www.facebook.com/events/6378254645620880).
 
 > Harta printată va fi disponibilă în timpul evenimentului la mai multe puncte din cartier, iar harta online este disponibilă [aici](https://bit.ly/3LL02Zd).
 
 *Evenimentul Bazar de Cotroceni este organizat de Asociația Incotroceni și creat de comunitatea cartierului - locuitori și businessuri locale. *
 
-Partenerii comunității: Vodafone România, NN România
+Partenerul comunității: Vodafone, NN, BCR, AVstore, Jack Daniel's, Freshful by eMAG, certSign.
 
-Parteneri locali: ZOISS home design, JW Marriott Bucharest Grand Hotel, Avincis, Forbes România, Uplifting Service, CGA infrastructure.
+Parteneri locali: Avincis, Forbes, JW Marriott Bucharest Grand Hotel, Uplifting Services, CGA Infrastructure.
 
-Parteneri culturali: Aici a stat, BandBook, Munteanu, Lazar Bara Creative PR, Rezistența Urbană, Igloo, A List Magazine, Radio România Cultural, IQads
+Parteneri culturali: SoNoRo, Aici a Stat, Jurjak, Rezistența Urbană, Munteanu, Lazar Bara Creative, Radio România Cultural, Iqads, The Institute.
 
-Partener radio: Radio Guerrilla
+Partener radio: Radio Guerrilla.
 
-Parteneri de e-mobilitate: Bolt
+Partener de mobilitate: Bolt.
 
-*Bazar de Cotroceni este parte din Romanian Design Week / RDW Design Go. *
