@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Bazar de Cotroceni ~ Octombrie 2023
-date: 7-8 October 2023
+date: 7 October 2023
 time: 10.00 – 20.00
 event_image: "../../assets/images/events-2023-10-bazar-cover.jpg"
 facebook_link: https://www.facebook.com/events/6378254645620880
