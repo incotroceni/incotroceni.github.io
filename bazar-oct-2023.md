@@ -49,9 +49,9 @@ Ne găsiți aici: 
 
 **Persoane de contact:**
 
-Dinu Drog -  Co-fondator Incotroceni | Email: dinu@incotroceni.ro | Tel: 0727163525
+Dinu Drog - Co-fondator Incotroceni, email: dinu:incotroceni.ro, tel. 0727163525
 
-Andreea Bara - comunicare & PR Bazar de Cotroceni | email: andreea@lazarbara.ro| Tel: 0744602818
+Andreea Bara - comunicare & PR Bazar de Cotroceni, email: andreea@lazarbara.ro, tel. 0744602818
 
 **Despre Asociația Încotroceni - Oameni, Idei, Povești**
 Încotroceni este o asociație privată, fără scop patrimonial, non-profit, independentă, neguvernamentală şi apolitică, fondată în 2016.  Scopul Incotroceni îl constituie dezvoltarea, promovarea şi sprijinirea comunității din cartierul Cotroceni și a identității acestuia, având în vedere ca direcții principale de acțiune promovarea social – cultural, arhitectură, urbanism și infrastructură a cartierului Cotroceni.
