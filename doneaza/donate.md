@@ -17,11 +17,11 @@ Fie că ajuți pentru a susține un eveniment sau pentru plantarea unui copac, d
 
 #### Donație online prin Mobilpay
 &nbsp;  
-{% include button.html text="Donează 50 lei online" link="[http://mpy.ro/npvd8er](https://mpy.ro/npvd7ev?language=ro)" %}
-{% include button.html text="Donează 100 lei online" link="[http://mpy.ro/npvd8er](https://mpy.ro/6p0k9uev?language=ro)" %}
-{% include button.html text="Donează 150 lei online" link="[[http://mpy.ro/npvd8er](https://mpy.ro/6p0k9uev?language=r)" %}
-{% include button.html text="Donează 200 lei online" link="[http://mpy.ro/npvd8er](https://mpy.ro/6p0k9wev?language=ro)" %}
-{% include button.html text="Donează 300 lei online" link="[http://mpy.ro/npvd8er](https://mpy.ro/6p0k9xev?language=ro)" %}
+{% include button.html text="Donează 50 lei online" link="https://mpy.ro/npvd7ev?language=ro" %}
+{% include button.html text="Donează 100 lei online" link="https://mpy.ro/6p0k9uev?language=ro" %}
+{% include button.html text="Donează 150 lei online" link="https://mpy.ro/6p0k9uev?language=ro" %}
+{% include button.html text="Donează 200 lei online" link="https://mpy.ro/6p0k9wev?language=ro" %}
+{% include button.html text="Donează 300 lei online" link="https://mpy.ro/6p0k9xev?language=ro" %}
 
 
 Îți mulțumim pentru că vrei să ajuți. Te asigurăm că banii pe care alegi să îi oferi sub formă de sponsorizare vor fi folosiți în folosul comunității, cu responsabilitate și cu maximum de transparență.
