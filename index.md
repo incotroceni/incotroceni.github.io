@@ -8,8 +8,6 @@ Incotroceni – Oameni, Idei, Povești și-a propus să facă din Cotroceni un s
 
 > **Te invităm la ediția de toamnă a evenimentului comunității, [Bazar de Cotroceni](https://www.facebook.com/events/485860564351211), care va avea loc pe 12-13 octombrie.**
 
-{% include button.html text="Înscrie o curte sau un business la Bazar" link="http://incotroceni.ro/inscriere-bazar" %}
-
 > Înscrie-te la Newsletter-ul Incotroceni - Oameni, Idei, Povești și fii la curent cu ce se întâmplă în cartierul tău! [Vreau să mă abonez](http://eepurl.com/ck0bNf)
 
 *Facem parte din [Reţeaua Civică Bucureşti](http://reteauacivica.ro/). Aceasta este o inițiativă ce reunește în prezent 13 grupuri civice. Reţeaua Civică Bucureşti îşi propune să cultive participarea cetățeanului la viața orașului precum și responsabilizarea politicienilor și a autorității publice pentru un parteneriat onest și responsabil între cetățean, politician ales prin vot, autoritate publică locală.*
