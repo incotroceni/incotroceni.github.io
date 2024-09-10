@@ -18,3 +18,5 @@ Respect – membrii comunității sunt conștienti și respectă istoria și tra
 
 Diversitate – membrii comunității sunt de toate vârstele și provin din toate categoriile sociale  
 
+{% include button.html text="Raportul anual de activitate Încotroceni 2022" link="https://drive.google.com/a/incotroceni.ro/file/d/1mXMcIaPSly5-AHJHkLtoKBZLOAjh7FuJ/view?usp=sharing" %}
+
