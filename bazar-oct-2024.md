@@ -17,6 +17,8 @@ Ediția din acest an își propune să fie o platformă de expunere pentru vecin
 
 O parte dintre străzi vor avea circulația auto blocată. Vă rugăm să nu intrați cu mașinile pe străzile din cartier pentru a avea mai mult spațiu de interacțiune și comunicare și pentru a păstra siguranța pietonilor care se plimbă pe carosabil.
 
+**Harta online a evenimentului** poate fi consultată [aici](https://www.google.com/maps/d/edit?mid=1F_M_xbLQZRmzKTt1EDgFphgxw83UlAMP&usp=sharing).
+
 {% include figure.html image="../assets/images/events-2024-10-bazar-6.jpg" position="center" %}
 
 Puncte de interes în Bazar de Cotroceni:
@@ -40,3 +42,5 @@ Puncte de interes în Bazar de Cotroceni:
 Eveniment organizat de Asociația Încotroceni - Oameni, Idei, Povești, și co-creat alături de comunitatea din cartier. Cu sprijinul ARCUB – Centrul Cultural al Municipiului București, Primăriei Sectorului 6 (Bazar de Cotroceni - West Side) şi Şcoala Gimnazială nr. 150. 
 
 Partenerii evenimentului: Banca Transilvania, Vodafone, CertSign & Acronis Parteneri culturali: Aici a stat, Humanitas, Mind Architect, Rezistența Urbană, Povesti din Bucureşti.
+
+Parteneri locali: Forbes România, Avincis, Uplifting Services, CGA Infrastructure și Aqua Carpatica.
