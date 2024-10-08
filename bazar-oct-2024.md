@@ -37,4 +37,6 @@ Puncte de interes în Bazar de Cotroceni:
 
 {% include figure.html image="../assets/images/events-2024-10-bazar-2.jpg" position="center" %}
 
-Eveniment organizat de Asociația Încotroceni - Oameni, Idei, Povești, și co-creat alături de comunitatea din cartier. Cu sprijinul ARCUB – Centrul Cultural al Municipiului București, Primăriei Sectorului 6 (Bazar de Cotroceni - West Side) şi Şcoala Gimnazială nr. 150. Partenerii evenimentului: Banca Transilvania, Vodafone, CertSign & Acronis Parteneri culturali: Aici a stat, Humanitas, Mind Architect, Rezistența Urbană, Povesti din Bucureşti.
+Eveniment organizat de Asociația Încotroceni - Oameni, Idei, Povești, și co-creat alături de comunitatea din cartier. Cu sprijinul ARCUB – Centrul Cultural al Municipiului București, Primăriei Sectorului 6 (Bazar de Cotroceni - West Side) şi Şcoala Gimnazială nr. 150. 
+
+Partenerii evenimentului: Banca Transilvania, Vodafone, CertSign & Acronis Parteneri culturali: Aici a stat, Humanitas, Mind Architect, Rezistența Urbană, Povesti din Bucureşti.
