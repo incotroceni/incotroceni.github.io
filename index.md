@@ -8,6 +8,8 @@ Incotroceni – Oameni, Idei, Povești și-a propus să facă din Cotroceni un s
 
 > **Te invităm la ediția de toamnă a evenimentului comunității, [Bazar de Cotroceni](https://incotroceni.ro/evenimente/2024-10-bazar-de-cotroceni), care va avea loc pe 12-13 octombrie.**
 
+- [Harta online a Bazarului](https://bit.ly/3LL02Zd)
+
 > Înscrie-te la Newsletter-ul Incotroceni - Oameni, Idei, Povești și fii la curent cu ce se întâmplă în cartierul tău! [Vreau să mă abonez](http://eepurl.com/ck0bNf)
 
 *Facem parte din [Reţeaua Civică Bucureşti](http://reteauacivica.ro/). Aceasta este o inițiativă ce reunește în prezent 13 grupuri civice. Reţeaua Civică Bucureşti îşi propune să cultive participarea cetățeanului la viața orașului precum și responsabilizarea politicienilor și a autorității publice pentru un parteneriat onest și responsabil între cetățean, politician ales prin vot, autoritate publică locală.*
