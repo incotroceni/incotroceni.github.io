@@ -3,7 +3,7 @@ layout: event
 title: Bazar de Cotroceni ~ Octombrie 2024
 date: 12 October 2024
 time: 10.00 – 22.00
-event_image: "../../assets/images/events-2023-10-bazar-1.jpg"
+event_image: "../../assets/images/events-2024-10-bazar-1.jpg"
 facebook_link: https://www.facebook.com/events/485860564351211
 ---
 
