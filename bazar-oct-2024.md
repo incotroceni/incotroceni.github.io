@@ -17,7 +17,7 @@ Ediția din acest an își propune să fie o platformă de expunere pentru vecin
 
 O parte dintre străzi vor avea circulația auto blocată. Vă rugăm să nu intrați cu mașinile pe străzile din cartier pentru a avea mai mult spațiu de interacțiune și comunicare și pentru a păstra siguranța pietonilor care se plimbă pe carosabil.
 
-**Harta online a evenimentului** poate fi consultată [aici](https://www.google.com/maps/d/edit?mid=1F_M_xbLQZRmzKTt1EDgFphgxw83UlAMP&usp=sharing), iar cea printabilă, [aici](/https://incotroceni.ro/evenimente/2024-10-bazar-de-cotroceni/harta).
+**Harta online a evenimentului** poate fi consultată [aici](https://www.google.com/maps/d/edit?mid=1F_M_xbLQZRmzKTt1EDgFphgxw83UlAMP&usp=sharing), iar cea printabilă, [aici](https://incotroceni.ro/evenimente/2024-10-bazar-de-cotroceni/harta).
 
 {% include figure.html image="../assets/images/events-2024-10-bazar-6.jpg" position="center" %}
 
