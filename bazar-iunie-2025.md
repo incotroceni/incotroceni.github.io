@@ -2,7 +2,7 @@
 layout: page-hide-title
 title: Bazar de Cotroceni ~ iunie 2025
 permalink: /evenimente/2025-06-bazar-de-cotroceni
-facebook_link: [https://www.facebook.com/events/485860564351211](https://www.facebook.com/events/1112043920762176?active_tab=about)
+facebook_link: https://www.facebook.com/events/1112043920762176
 ---
 
 {% include figure.html image="../assets/images/events-2025-06-bazar-1.jpg" position="center" %}
@@ -11,7 +11,7 @@ facebook_link: [https://www.facebook.com/events/485860564351211](https://www.fac
 
 Concertele live și activitățile educaționale ale comunității din Cotroceni completează agenda
 
-Bazar de Cotroceni revine cu cea de- a 9-a ediție, care va avea loc în weekendul 14-15 iunie, în spații publice și private inedite din “cartierul grădină” al Bucureștiului. Vă invităm la o plimbare la pas prin Cotroceni, unde vă veți întâlni cu talentele, experiențele, pasiunile și poveștile comunității cartierului, în curțile deschise de către vecini.
+Bazar de Cotroceni revine cu cea de-a 9-a ediție, care va avea loc în weekendul 14-15 iunie, în spații publice și private inedite din “cartierul grădină” al Bucureștiului. Vă invităm la o plimbare la pas prin Cotroceni, unde vă veți întâlni cu talentele, experiențele, pasiunile și poveștile comunității cartierului, în curțile deschise de către vecini.
 
 **Harta online a evenimentului** poate fi consultată [aici](https://www.google.com/maps/d/edit?mid=1F_M_xbLQZRmzKTt1EDgFphgxw83UlAMP&usp=sharing).
 
