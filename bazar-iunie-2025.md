@@ -1,5 +1,5 @@
 ---
-layout: page-hide-title
+layout: page
 title: Bazar de Cotroceni ~ iunie 2025
 permalink: /evenimente/2025-06-bazar-de-cotroceni
 facebook_link: https://www.facebook.com/events/1112043920762176
