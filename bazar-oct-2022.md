@@ -22,6 +22,6 @@ Bazar de Cotroceni este organizat de Asociația Incotroceni și de comunitatea c
 
 > Harta printată va fi disponibilă în timpul evenimentului la: Pergola Cotroceni, Kicen (Staicovici, Carol Davila), Zissou/Bocca Lupo, La Petite Bouffe și Throwback Coffee.
 
-{% include button.html text="Urmărește evenimentul pe facebook" link="https://www.facebook.com/events/1037424860298289" icon="facebook" %}
+{% include button.html text="Urmărește evenimentul pe facebook" target="_blank" link="https://www.facebook.com/events/1037424860298289" icon="facebook" %}
 
 *Parteneri media: Radio Guerrilla, Munteanu recomandă.*
