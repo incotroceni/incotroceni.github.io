@@ -19,7 +19,7 @@ Programul ediției de primăvară este disponibil [aici](https://www.facebook.co
 - [Harta printabilă](https://incotroceni.ro/evenimente/2023-05-bazar-de-cotroceni/harta) 
 - [QR Coduri printabile](https://incotroceni.ro/evenimente/2023-05-bazar-de-cotroceni/qr)
 
-> Harta printată va fi disponibilă în timpul evenimentului la mai multe puncte din cartier, iar programul complet poate fi consultat online, [AICI](https://bit.ly/3LL02Zd)).
+> Harta printată va fi disponibilă în timpul evenimentului la mai multe puncte din cartier, iar programul complet poate fi consultat online, [AICI](https://bit.ly/3LL02Zd).
 
 Evenimentul Bazar de Cotroceni este organizat de Asociația Incotroceni și creat de comunitatea cartierului - locuitori și businessuri locale. 
 

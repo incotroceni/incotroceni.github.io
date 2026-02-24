@@ -4,6 +4,7 @@ _site/
 .jekyll-metadata
 
 .DS_Store
+.claude/settings.local.json
 
 vendor/bundle/
 

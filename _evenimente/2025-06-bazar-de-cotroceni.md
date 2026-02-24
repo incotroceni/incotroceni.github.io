@@ -10,7 +10,9 @@ facebook_link: https://www.facebook.com/events/1112043920762176
 
 **Bazar de Cotroceni - bazar de cunoaștere și de învățare - în weekend-ul 14-15 iunie 2025**
 
-**Harta online a evenimentului** poate fi consultată [aici](https://www.google.com/maps/d/edit?mid=1F_M_xbLQZRmzKTt1EDgFphgxw83UlAMP&usp=sharing).
+Bazar de Cotroceni revine cu cea de-a 9-a ediție, care va avea loc în weekendul 14-15 iunie, în spații publice și private inedite din "cartierul grădină" al Bucureștiului. Vă invităm la o plimbare la pas prin Cotroceni, unde vă veți întâlni cu talentele, experiențele, pasiunile și poveștile comunității cartierului, în curțile deschise de către vecini.
+
+**Harta online a evenimentului** poate fi consultată [aici](https://www.google.com/maps/d/edit?mid=1F_M_xbLQZRmzKTt1EDgFphgxw83UlAMP&usp=sharing), iar cea printabilă, [aici](https://incotroceni.ro/evenimente/2025-06-bazar-de-cotroceni/harta).
 
 Puncte de interes în Bazar de Cotroceni:
 
