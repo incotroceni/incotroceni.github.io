@@ -7,4 +7,6 @@ _site/
 .claude/settings.local.json
 
 vendor/bundle/
+Gemfile.vercel.lock
+_config.vercel.yml
 
