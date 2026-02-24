@@ -28,6 +28,11 @@ $headingtype: (
 
 @import "alembic";
 
+// Sassline scales html font-size up aggressively on large screens (106%→118%).
+// Pull it back so body text stays around 16-17px on desktop.
+@media screen and (min-width: 64em)  { html { font-size: 93.75%; } }
+@media screen and (min-width: 100em) { html { font-size: 100%; } }
+
 body { line-height: 1.7; }
 
 h1, h2, h3, h4 { letter-spacing: -0.02em; }
