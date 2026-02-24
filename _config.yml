@@ -25,6 +25,7 @@ exclude:
 
 # 2. Installed Gems
 plugins:
+- jekyll-remote-theme
 - jekyll-sitemap
 - jekyll-mentions
 - jekyll-paginate
