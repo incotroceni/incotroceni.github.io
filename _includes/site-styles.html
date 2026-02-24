@@ -1,0 +1,52 @@
+{% capture styles %}
+
+$backgroundColour:        #FDFBF7;
+$featureBackgroundColour: #F5F0E8;
+$codeBackgroundColour:    #F5F0E8;
+$accentColour:            #B5841A;
+$headingColour:           #1C1C1C;
+$bodyColour:              #3D3D3D;
+$linkColour:              #B5841A;
+$hoverColour:             #8C6413;
+$focusColour:             #B5841A;
+$captionColour:           #7A7060;
+
+$bodytype: (
+  font-family: "'Lato', sans-serif",
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+);
+
+$headingtype: (
+  font-family: "'Libre Baskerville', serif",
+  regular: 400,
+  bold: 700,
+  cap-height: 0.72
+);
+
+@import "alembic";
+
+body { line-height: 1.78; }
+
+h1, h2, h3 { letter-spacing: -0.01em; }
+
+.btn {
+  border-radius: 2px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 0.85em;
+}
+
+blockquote {
+  border-left: 4px solid $accentColour;
+  font-style: italic;
+  color: #5C5248;
+}
+
+hr { border-color: $accentColour; opacity: 0.3; }
+
+{% endcapture %}<style>{{ styles | scssify | strip_newlines }}</style>
