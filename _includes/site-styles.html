@@ -1,0 +1,47 @@
+{% capture styles %}
+
+$backgroundColour:        #FEFAF6;
+$featureBackgroundColour: #F5EDE4;
+$codeBackgroundColour:    #F5EDE4;
+$accentColour:            #C65D3B;
+$headingColour:           #2A1F1A;
+$bodyColour:              #4A3F3A;
+$linkColour:              #C65D3B;
+$hoverColour:             #A04A2E;
+$focusColour:             #C65D3B;
+$captionColour:           #8C7B76;
+
+$bodytype: (
+  font-family: "'Inter', sans-serif",
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+);
+
+$headingtype: (
+  font-family: "'Playfair Display', serif",
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+);
+
+@import "alembic";
+
+body { line-height: 1.75; }
+
+.btn {
+  border-radius: 4px;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+
+blockquote {
+  border-left-color: $accentColour;
+  background: $featureBackgroundColour;
+  padding: 1em 1.5em;
+  border-radius: 0 4px 4px 0;
+}
+
+{% endcapture %}<style>{{ styles | scssify | strip_newlines }}</style>
