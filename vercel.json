@@ -1,5 +1,5 @@
 {
-  "buildCommand": "echo \"url: https://$VERCEL_URL\" > _config.vercel.yml && BUNDLE_GEMFILE=Gemfile.vercel bundle exec jekyll build --config _config.yml,_config.vercel.yml",
+  "buildCommand": "echo \"url: https://$VERCEL_URL\" > _config.vercel.yml && bundle exec jekyll build --config _config.yml,_config.vercel.yml",
   "outputDirectory": "_site",
-  "installCommand": "BUNDLE_GEMFILE=Gemfile.vercel bundle install"
+  "installCommand": "bundle install"
 }
