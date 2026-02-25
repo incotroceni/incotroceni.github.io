@@ -22,8 +22,8 @@ Pentru cei mici, organizatorii au pregătit în ambele zile, spații speciale la
 
 **Harta online a evenimentului** poate fi consultată [aici](https://drive.google.com/file/d/1mDtpibZQjTQlrjnU8oR9sy0fWr_lNILN/view?fbclid=IwAR0KyjlU8TQqUXCRfu3xWA4NfONGciGUrxW7lSKJzmgpr3VSRkQzt6fupt8).
 
-- [Harta printabilă](https://incotroceni.ro/evenimente/2023-10-bazar-de-cotroceni/harta) 
-- [QR Coduri printabile](https://incotroceni.ro/evenimente/2023-10-bazar-de-cotroceni/qr)
+- [Harta printabilă](/evenimente/2023-10-bazar-de-cotroceni/harta)
+- [QR Coduri printabile](/evenimente/2023-10-bazar-de-cotroceni/qr)
 - [Evenimentul pe Facebook](https://www.facebook.com/events/6378254645620880)
 
 **Bazar de Cotroceni** este invitația de a descoperi comunitatea și cartierul - cu străzile sale boeme și aerul romantic - la pas, în plimbare. Traficul auto nu este blocat, întrucât rezidenții își continuă activitățile casnice pe perioada weekend-ului. Organizatorii încurajează astfel publicul să opteze pentru alte mijloace de transport, ca o formă de respect pentru toți participanții. Alternative pe care le încurajăm: metrou, bicicleta și trotineta.

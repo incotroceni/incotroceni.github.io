@@ -6,4 +6,4 @@ permalink: /inscriere-bazar
 
 Ne vedem la [Bazar](https://www.facebook.com/events/485860564351211)!
 
-*vezi detalii despre [politica GDPR](https://incotroceni.ro/bazar/gdpr)*
+*vezi detalii despre [politica GDPR](/bazar/gdpr)*
