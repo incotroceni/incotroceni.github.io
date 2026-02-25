@@ -37,6 +37,8 @@ body { line-height: 1.7; }
 
 h1, h2, h3, h4 { letter-spacing: -0.02em; }
 
+h1 { letter-spacing: -0.03em; }
+
 .btn {
   border-radius: 6px;
   font-family: 'DM Sans', sans-serif;
@@ -48,6 +50,55 @@ blockquote {
   border-left-color: $accentColour;
   font-style: normal;
   color: $bodyColour;
+}
+
+// ── Header ──────────────────────────────────────────────────────────────────
+.header {
+  border-bottom: 1px solid $featureBackgroundColour;
+}
+
+// ── Navigation ──────────────────────────────────────────────────────────────
+.nav--header .list--nav a {
+  font-weight: 500;
+  text-decoration: none;
+  position: relative;
+  padding-bottom: 2px;
+
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: $accentColour;
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.2s ease;
+  }
+
+  &:hover::after { transform: scaleX(1); }
+}
+
+// Active page indicator
+.item--current a {
+  color: $accentColour;
+  &::after { transform: scaleX(1); }
+}
+
+// "Donează" CTA — last nav item styled as a pill button
+.nav--header .list--nav li:last-child a {
+  background: $linkColour;
+  color: #ffffff;
+  border-radius: 20px;
+  padding: 0.3rem 1rem;
+
+  &::after { display: none; }
+
+  &:hover {
+    background: $hoverColour;
+    color: #ffffff;
+  }
 }
 
 {% endcapture %}<style>{{ styles | scssify | strip_newlines }}</style>
