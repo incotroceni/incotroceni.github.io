@@ -1,5 +1,6 @@
 {
   "buildCommand": "echo \"url: https://$VERCEL_URL\" > _config.vercel.yml && bundle exec jekyll build --config _config.yml,_config.vercel.yml",
+  "ignoreCommand": "[ \"$VERCEL_ENV\" = \"production\" ]",
   "outputDirectory": "_site",
   "installCommand": "bundle install"
 }
