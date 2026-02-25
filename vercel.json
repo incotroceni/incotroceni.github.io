@@ -2,5 +2,6 @@
   "buildCommand": "bundle exec jekyll build",
   "ignoreCommand": "[ \"$VERCEL_ENV\" = \"production\" ]",
   "outputDirectory": "_site",
-  "installCommand": "bundle install"
+  "installCommand": "bundle install",
+  "cleanUrls": true
 }
