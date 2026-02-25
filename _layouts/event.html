@@ -15,9 +15,10 @@ layout: default
 
     {{ content }}
 
-    {% if page.facebook_link != nil %}{% include button.html text="Urmărește evenimentul pe facebook" link=page.facebook_link icon="facebook" %}{% endif %}
-
-    {% if page.photo_gallery != nil %}{% include button.html text="Vezi galeria foto a evenimentului" link=page.photo_gallery %}{% endif %}
+    <div class="button-center">
+      {% if page.facebook_link != nil %}{% include button.html text="Urmărește evenimentul pe facebook" link=page.facebook_link icon="facebook" %}{% endif %}
+      {% if page.photo_gallery != nil %}{% include button.html text="Vezi galeria foto a evenimentului" link=page.photo_gallery %}{% endif %}
+    </div>
 
     {% include nav-share.html %}
 

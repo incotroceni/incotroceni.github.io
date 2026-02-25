@@ -8,9 +8,9 @@ Vrei să te implici în activitățile și proiectele asociației? Cu puțin tim
 
 {% include figure.html image="../assets/images/volunteer.jpg" position="center" %}
 
-> Dacă ești în căutare de [mai multe idei de implicare](https://incotroceni.ro/implica-te/simt-civic), am adunat câteva resurse utile pentru antrenarea spiritului civic.  
+> Dacă ești în căutare de [mai multe idei de implicare](/implica-te/simt-civic), am adunat câteva resurse utile pentru antrenarea spiritului civic.
 
-> Credem și dorim să susținem o atitudine sustenabilă în ce privește folosirea resurselor. Am adunat la un loc o serie de [proiecte utile din București](https://incotroceni.ro/implica-te/sustenabilitate).
+> Credem și dorim să susținem o atitudine sustenabilă în ce privește folosirea resurselor. Am adunat la un loc o serie de [proiecte utile din București](/implica-te/sustenabilitate).
 
 {% include figure.html image="../assets/images/sponsor.png" position="center" %}
 

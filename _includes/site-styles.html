@@ -1,0 +1,105 @@
+{% capture styles %}
+
+$backgroundColour:        #FFFFFF;
+$featureBackgroundColour: #F3F6FA;
+$codeBackgroundColour:    #F3F6FA;
+$accentColour:            #05bf85;
+$headingColour:           #111827;
+$bodyColour:              #374151;
+$linkColour:              #05bf85;
+$hoverColour:             #04865d;
+$focusColour:             #05bf85;
+$captionColour:           #6B7280;
+
+$bodytype: (
+  font-family: "'DM Sans', sans-serif",
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.74
+);
+
+$headingtype: (
+  font-family: "'DM Sans', sans-serif",
+  regular: 500,
+  bold: 700,
+  cap-height: 0.74
+);
+
+@import "alembic";
+
+// Sassline scales html font-size up aggressively on large screens (106%→118%).
+// Pull it back so body text stays around 16-17px on desktop.
+@media screen and (min-width: 64em)  { html { font-size: 93.75%; } }
+@media screen and (min-width: 100em) { html { font-size: 100%; } }
+
+body { line-height: 1.7; }
+
+h1, h2, h3, h4 { letter-spacing: -0.02em; }
+
+h1 { letter-spacing: -0.03em; }
+
+.btn {
+  border-radius: 6px;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+blockquote {
+  border-left-color: $accentColour;
+  font-style: normal;
+  color: $bodyColour;
+}
+
+// ── Footer ──────────────────────────────────────────────────────────────────
+.footer {
+  font-size: 0.875rem;
+
+  .small { font-size: inherit; }
+}
+
+// ── Button alignment ────────────────────────────────────────────────────────
+.button-center {
+  text-align: center;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+// ── Button row ──────────────────────────────────────────────────────────────
+.button-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 2.5rem;
+  margin-bottom: 1.5rem;
+}
+
+// ── Navigation ──────────────────────────────────────────────────────────────
+.nav--header .list--nav a {
+  font-weight: 500;
+  text-decoration: none;
+}
+
+// Active page indicator
+.nav--header .list--nav .item--current a {
+  color: $accentColour;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+// "Donează" CTA — last nav item as a sharp-edged button
+.nav--header .list--nav li:last-child a {
+  background: $accentColour;
+  color: #ffffff;
+  border-radius: 0;
+  padding: 1rem 1.4rem;
+  text-decoration: none;
+
+  &:hover {
+    background: $hoverColour;
+    color: #ffffff;
+  }
+}
+
+{% endcapture %}<style>{{ styles | scssify | strip_newlines }}</style>

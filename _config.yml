@@ -98,6 +98,13 @@ google_analytics: 'UA-118125506-1'
 # service_worker: false # Will turn off the service worker if set to false
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
+fonts:
+  preconnect_urls:
+    - https://fonts.googleapis.com
+    - https://fonts.gstatic.com
+  font_urls:
+    - https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap
+
 # 8. Site navigation
 navigation_header:
   - title: Acasă

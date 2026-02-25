@@ -16,8 +16,8 @@ La această ediție, s-au înscris peste 180 de curți private, un număr record
 Programul ediției de primăvară este disponibil [aici](https://www.facebook.com/events/916851236258781) și cuprinde 4 zone mari de interes, cu activități gratuite, special organizate atât pentru cei mici, dar și pentru cei mari: concerte live cu sprijinul Vodafone România, sesiuni de yoga & wellbeing în Grădina Botanică cu Activero, atelier de pictură pentru la  Galeria Romniceanu, ambele oferite de NN România, precum și tururi arhitecturale ghidate, realizate de Cristi Radu.
 
 - [Harta online](https://bit.ly/3LL02Zd)
-- [Harta printabilă](https://incotroceni.ro/evenimente/2023-05-bazar-de-cotroceni/harta) 
-- [QR Coduri printabile](https://incotroceni.ro/evenimente/2023-05-bazar-de-cotroceni/qr)
+- [Harta printabilă](/evenimente/2023-05-bazar-de-cotroceni/harta)
+- [QR Coduri printabile](/evenimente/2023-05-bazar-de-cotroceni/qr)
 
 > Harta printată va fi disponibilă în timpul evenimentului la mai multe puncte din cartier, iar programul complet poate fi consultat online, [AICI](https://bit.ly/3LL02Zd).
 
