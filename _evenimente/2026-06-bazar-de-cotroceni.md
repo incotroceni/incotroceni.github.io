@@ -25,22 +25,22 @@ Dacă vii, vino pe jos. Străzile sunt înguste și ne dorim să păstrăm spaț
 
 **În Agora din Parcul Romniceanu**, alături de Banca Transilvania, propunem vizitatorilor 2 sesiuni de discuții **#BTtalks**, care vor deschide un spațiu de dialog, oferindu-ne ocazia de a transforma acțiunile individuale și comunitare într-o resursă valoroasă.
 
-**Sâmbătă, 6 iunie** — 18:00 – 19:30 // *Vecinul nostru drag?*
+**Sâmbătă, 6 iunie — 18:00 – 19:30 // Vecinul nostru drag?**
 Moderator: Ruxandra Păduraru (antropolog)
 Participanți: Maria Mandea (artistă și designer de jocuri), Marinela Rață Panaite (jurnalist), Irina Zamfirescu (sociolog)
 
-**Duminică, 7 iunie** — 18:00 – 19:30 // *Grădinile posibile și imposibile ale orașului*
+**Duminică, 7 iunie — 18:00 – 19:30 // Grădinile posibile și imposibile ale orașului**
 Moderator: Dan Bărbulescu (activist civic)
 Invitați: Ștefan Câlția (artist), Tudor Dinu (scriitor), Alexandru Mexi (arhitect-peisagist), Dorothée Hasnaș (arhitect), Irina Neacșu (arhitect)
 
 După închiderea dezbaterilor, scena **#BTLive** ne invită într-un univers acustic, prin trei momente muzicale:
 
 **Sâmbătă, 6 iunie**
-- 19:45 – 20:30 — Ștefan Rus (pian) — unul dintre câștigătorii Concursului Național Tiberian Continuum, un proiect marca Jazzbook
-- 20:45 – 21:15 — The Fishermen Quintet
+- 19:45 – 20:30 — **Ștefan Rus (pian)** — unul dintre câștigătorii Concursului Național Tiberian Continuum, un proiect marca Jazzbook
+- 20:45 – 21:15 — **The Fishermen Quintet**
 
 **Duminică, 7 iunie**
-- 20:00 – 21:00 — Corina Sîrghi trio
+- 20:00 – 21:00 — **Corina Sîrghi trio**
 
 Agora din Parcul Romniceanu va găzdui ateliere creative pentru adulți și copii:
 - **„Metamorfoze creative"** (MiRA kids)
@@ -55,10 +55,7 @@ De asemenea, tot în Agora vom avea un punct de hidratare adus de **Apa Nova**, 
 
 ---
 
-Ne continuăm plimbarea prin cartier și ajungem la **Cotroceni Blues** (curtea din strada Sf. Elefterie nr. 26) — designeri și artiști locali, colecționari, prieteni vechi și noi, curatoriate de gazda Mr. Jurjak. **Vodafone** conectează comunitatea prin muzică și aduce pe scenă:
-
-- **6 iunie**: Irina Mar, :umbra, Jurjak
-- **7 iunie**: Paul Ballo, miau.waw, The Amsterdams
+Ne continuăm plimbarea prin cartier și ajungem la **Cotroceni Blues** (curtea din strada Sf. Elefterie nr. 26) — designeri și artiști locali, colecționari, prieteni vechi și noi, curatoriate de gazda Mr. Jurjak. Vodafone conectează comunitatea prin muzică și aduce pe scenă, pe 6 iunie, pe **Irina Mar, :umbra, Jurjak**, iar pe 7 iunie pe **Paul Ballo, miau.waw, The Amsterdams**
 
 ---
 
