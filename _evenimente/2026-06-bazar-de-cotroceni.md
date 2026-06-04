@@ -17,7 +17,9 @@ Casele nu vorbesc doar prin arhitectura lor, ci și prin poveștile comunități
 
 Dacă vii, vino pe jos. Străzile sunt înguste și ne dorim să păstrăm spațiul liber pentru viața care se întâmplă pe ele.
 
-**Harta online a evenimentului** poate fi consultată [aici](#) *(în curând)*, iar cea printabilă, [aici](/evenimente/2026-06-bazar-de-cotroceni/harta) *(în curând)*.
+**Harta evenimentului** poate fi descărcată [aici](/evenimente/2026-06-bazar-de-cotroceni/harta). Harta printată se va găsi la: Toni Gelato, JazzBook, Zissou, Kopp Coffee, Cotroceni Blues (curtea din Sf. Elefterie 26).
+
+Lista completă a activităților poate fi consultată [aici](https://www.facebook.com/events/881172211662707). 
 
 ---
 
@@ -95,12 +97,12 @@ Evenimentul Bazar de Cotroceni este organizat de **Asociația Incotroceni** și 
 
 Ne găsiți și aici: [Facebook](https://www.facebook.com/search/top?q=incotroceni) & [Instagram](https://www.instagram.com/incotroceni/)
 
-**Realizat cu sprijinul** Primăriei Capitalei și ARCUB București. 
+**Realizat cu sprijinul** Primăriei Capitalei și ARCUB - Centrul Cultural al Municipiului București. 
 
 Parte din programul **Bucharest Design Festival**.
 
-**Susținut de**: Vodafone România, Banca Transilvania, Apa Nova.
+**Susținut de**: Vodafone România, Banca Transilvania, Apa Nova București.
 
 **Parteneri**: Străzi pentru Oameni, Forbes România, GCA Infrastructure, Rezistența Urbană, Jurjak, UPlifting Services, Muzeul Național al Literaturii Române, Universitatea din București, UNArte, Facultatea de Sociologie și Asistență Socială, Facultatea de Biologie.
 
-**Parteneri Media**: București FM.
+**Parteneri Media**: Radio București FM.
